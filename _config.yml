@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ellior2/Ellior2.github.io
+name: Rhonda Elliott
 
 # Short bio or description (displayed in the header)
 description: Graduate Student in the School of Aquatic and Fisheries Sciences
@@ -18,7 +18,7 @@ avatar: https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/11150368_101536751409324
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ellior2@uw.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
