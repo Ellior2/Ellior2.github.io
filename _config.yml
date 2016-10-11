@@ -6,7 +6,7 @@
 name: Rhonda Elliott
 
 # Short bio or description (displayed in the header)
-description: Graduate Student in the School of Aquatic and Fisheries Sciences
+description: Graduate Student in the School of Aquatic and Fisheries Sciences and Research Technician for Taylor Shellfish
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/11150368_10153675140932432_2535083411147292703_n.jpg?oh=093f6701cc68ed22fd9e46c890a17360&oe=5860B147
@@ -21,12 +21,12 @@ footer-links:
   email: ellior2@uw.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: Ellior2/ellior2.github.io
+  instagram: Calcification
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
