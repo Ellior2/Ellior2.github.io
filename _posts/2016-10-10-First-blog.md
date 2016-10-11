@@ -1,0 +1,1 @@
+Welcome to my Lab Notebook! Here you will find information regarding some current research projects happening in collaboration with Taylor Shellfish and the University of Washington Roberts Lab. We are using proteomic tools to better understand how Pacific oysters are responding to their environment and hopefully be able to identify potential stressers in a hatchery setting.
