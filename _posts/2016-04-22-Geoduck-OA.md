@@ -1,7 +1,7 @@
 #Geoduck Experiment
 4/22/16-5/16/16 Conducted at the Taylor Shellfish Hatchery in Quilcene, WA by @Ellior2
 
-The goal of this experiment was to assess survival and identify differences in the proteome between geoduck larvae reared at low (7.1), moderate (7.5) and high (8.2) pH levels. When were hatching geoduck larvae in high pH (8.2) water, we documented high hatching rates but began to see ciliate infestation and high mortality one or two weeks post-fertilization. After correspondence with Brent, Holly, and Steven we decided to try rearing the geoduck larvae in lower pH treatments because they had had recent success doing so. Initially we tried hatching geoduck eggs in low pH treatments but this resulted in very poor hatching rates. Thus for this experiment, we decided to start the lower pH treatments at 4 days old. So for the first four days all larvae received the high (8.2) pH water, then larvae were transferred to their respective treatments.
+The goal of this experiment was to assess survival and identify differences in the proteome between geoduck larvae reared at low (7.1), moderate (7.5) and high (8.2) pH levels. When were hatching geoduck larvae in high pH (8.2) water, we documented high hatching rates but began to see ciliate infestation and high mortality one or two weeks post-fertilization. After correspondence with Benoit, Brent, Holly, and Steven we decided to try rearing the geoduck larvae in lower pH treatments because they had had recent success doing so. Initially we tried hatching geoduck eggs in low pH treatments but this resulted in very poor hatching rates. Thus for this experiment, we decided to start the lower pH treatments at 4 days old. So for the first four days all larvae received the high (8.2) pH water, then larvae were transferred to their respective treatments.
 
 We started the experiment with 6-200L conicals with 14 million fertilized eggs in each. The moderate pH treatment (7.5) is raw untreated deep water pumped in from 100 feet deep in Dabob Bay. The low pH treatment is this raw deep water treated with carbon dioxide to reach a set point of 7.1 using a solenoid valve and venturi with a 5200 YSI probe to maintain pH set point. The high pH treatment is the raw deep water treated with sodium carbonate to reach a set point of 8.2 using a Honeywell 2182 and pH Durafet. Because of the plumbing and the location of the experiment, we sometimes found that the 8.2 pH treatment warmed the water 1-2C higher than the other treatments on warmer days.
 
@@ -12,22 +12,14 @@ Used a 20um screen to scoop ~10,000 swimming geoduck larvae from the conical. I 
 
 ##Experimental Design
 
-+------------+-----------------------+-----------------------+------------------------+
+
 | Conical #  | pH Treatment at Day 0 | pH Treatment at Day 4 | pH Treatment at Day 11 |
-+------------+-----------------------+-----------------------+------------------------+
+-------------|-----------------------|-----------------------|------------------------|
 | 1          | 8.2                   | 7.1                   | 8.2                    |
-+------------+-----------------------+-----------------------+------------------------+
 | 3          | 8.2                   | 7.5                   | 8.2                    |
-+------------+-----------------------+-----------------------+------------------------+
 | 5          | 8.2                   | 7.1                   | 7.1                    |
-+------------+-----------------------+-----------------------+------------------------+
 | 6          | 8.2                   | 7.1                   | 7.1                    |
-+------------+-----------------------+-----------------------+------------------------+
 | 7          | 8.2                   | 7.5                   | 7.5                    |
-+------------+-----------------------+-----------------------+------------------------+
 | 8          | 8.2                   | 7.5                   | 7.5                    |
-+------------+-----------------------+-----------------------+------------------------+
 | 9          | 8.2                   | 8.2                   | 8.2                    |
-+------------+-----------------------+-----------------------+------------------------+
 | 10         | 8.2                   | 8.2                   | 8.2                    |
-+------------+-----------------------+-----------------------+------------------------+
