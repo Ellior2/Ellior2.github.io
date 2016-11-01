@@ -1,4 +1,4 @@
-Geoduck Experiment
+## Geoduck OA Experiment
 4/22/16-5/16/16 Conducted at the Taylor Shellfish Hatchery in Quilcene, WA by @Ellior2
 
 The goal of this experiment was to assess survival and identify differences in the proteome between geoduck larvae reared at low (7.1), moderate (7.5) and high (8.2) pH levels. When we were hatching geoduck larvae in high pH (8.2) water for production, we documented high hatching rates but began to see ciliate infestation and high mortality one or two weeks post-fertilization. After correspondence with Brent, Holly, and Steven we decided to experiment with rearing geoduck larvae in lower pH treatments because they had had recent success doing so. Perhaps this lower pH treatment makes an intolerable environment for potential parasites, bacteria, or pathogens to infest the geoduck cultures and cause the high mortality we have seen. Initially we tried hatching geoduck eggs in low pH treatments but this resulted in very poor hatching rates. So for the first four days all larvae received the high (8.2) pH water, then larvae were transferred to their respective treatments. At Day 4, Conicals #5 and #6 were transferred to the pH 7.1 treatment, Conicals #7 and #8 were transferred to 7.5 pH treatment, and Conicals #9 and #10 stayed in the pH 8.2 treatment throughout the whole experiment. 
@@ -8,12 +8,12 @@ Additionally, we decided to transfer two conicals (#1 which was spawned at pH 8.
 We started the experiment with 6-200L conicals with 14 million fertilized eggs in each. The moderate pH treatment (7.5) is raw deep water pumped into the hatchery from 100 feet deep in Dabob Bay. The low pH treatment is raw deep water treated with carbon dioxide to reach a set point of 7.1 using a solenoid valve and venturi with a 5200 YSI probe to maintain pH set point. The high pH treatment is raw deep water treated with sodium carbonate to reach a set point of 8.2 using a Honeywell 2182 and pH Durafet. Because of the plumbing and the location of the experiment, we sometimes found that the 8.2 pH treatment warmed the water 1-2C higher than the other treatments on warmer days. All water was filtered through a series of 25um, 10um, and 5um bag filters.
 
 
-##Proteomics Sampling Protocol
+## Proteomics Sampling Protocol
 
 Used a 20um screen to scoop ~10,000 swimming geoduck larvae from the conical. I pipetted the larvae into a cryotube. As the larvae settled to the bottom of the tube, I removed as much excess seawater as possible and replaced with isopropyl alcohol (we had discussed using ethanol to rinse the larvae, but I had a miscommunication with folks at the hatchery about our supply and ended up using isopropyl alcohol instead). I then removed any excess alcohol from the tube with the pipette and stored in an ice chest until all samples were taken. We took duplicate samples for each conical. Once all samples were collected (~30 minutes) we transferred all samples to our -80C freezer. Samples were transferred to the Roberts -80C with dry ice on 9/21/16.
 
 
-##Experimental Design
+## Experimental Design
 
 
 | Conical #  | pH Treatment at Day 0 | pH Treatment at Day 4 | pH Treatment at Day 11 |
@@ -29,7 +29,7 @@ Used a 20um screen to scoop ~10,000 swimming geoduck larvae from the conical. I 
 
 ![Experimental Diagram](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/Geoduckdiagram.pdf)
 
-##Sample Identification Key
+## Sample Identification Key
 
 | Sample | Age | Date      | Contents                                    | pH D4-D11 | pH D11-D17 |
 |--------|-----|-----------|---------------------------------------------|-----------|------------|
