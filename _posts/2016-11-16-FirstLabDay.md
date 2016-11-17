@@ -13,7 +13,7 @@ Used a pipette to add 5.00ml of nanopure to a 10ml falcon tube. I weighed out 0.
 
 __5 ml of 1.5M Tris(tris(hydroxymethyl)aminomethane hydrochloride) pH8.8__
 
-I used a pipette to add 2.00ml of nanopure to a 10ml falcon tube. I weighed out 1.182g of Tris and added to the 2ml of nanopure in the falcon tubes. I realized I didn't have enough liquid in the falcon tube to dissolve it so I added another 1 ml. I used a pH meter that we calibrated prior using pH buffers 7 and 10, and found the pH of this solution to be around 4. Because we need the solution to be pH 8.8, I added a drop of 5N NaOH. This increased the pH about 2 units so I slowly added more 5N NaoH until I reached pH of 8.8. I ended up using 23 drops. At this point I was at 4.8ml verfied using a glass buret. I added 200ul more of nanopure, and checked the pH. The final pH of the solution is 8.89. I kept the solution in a labeled falcon tube on the benchtop.
+I used a pipette to add 2.00ml of nanopure to a 10ml falcon tube. I weighed out 1.182g of Tris and added to the 2ml of nanopure in the falcon tube. I realized I didn't have enough liquid in the falcon tube to dissolve it so I added another 1 ml. I used a pH meter that we calibrated prior using pH buffers 7 and 10, and found the pH of this solution to be around 4. Because we need the solution to be pH 8.8, I added a drop of 5N NaOH. This increased the pH about 2 units so I slowly added more 5N NaoH until I reached pH of 8.8. I ended up using 23 drops. At this point I was at 4.8ml verfied using a glass buret. I added 200ul more of nanopure, and checked the pH. The final pH of the solution is 8.89. I kept the solution in a labeled falcon tube on the benchtop.
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
