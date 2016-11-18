@@ -18,9 +18,9 @@ Add 500ul of the 50mM NH4HCO3 + 6M urea solution to each of the 22 samples. Alwa
 
 After the centrifuge step, pipette out 100ul of supernatant liquid from each sample and put into the newly labeled centrifuge tubes accordingly. Discard pipette tip each time. Should I save the remaining sample in the -80C? 
 
-Make an ethanol dry ice bath. Are there any special considerations here? Just add ethanol to dry ice in a small tray or container?
+Make an ethanol dry ice bath. Are there any special considerations here? Just add ethanol to dry ice in a beaker?
 
-Make a wetbath. Get ice (from where?) and add water. Place a test tube rack to store samples in between sonications.
+Make a wetbath. Get ice and add water. Place a test tube rack to store samples in between sonications.
 
 It seems like the sonication really warms up a 100ul sample quickly. We may want to reduce to 5s or less of sonication, then 5s in ethanol/dry ice bath, then in wet bath between sonications. Will the sample refreeze in the ethanol/dry-ce bath and is that bad? I will start with first sample and cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
 
