@@ -22,6 +22,6 @@ Make an ethanol dry ice bath. Are there any special considerations here? Just ad
 
 Make a wetbath. Get ice and add water. Place a test tube rack to store samples in between sonications.
 
-It seems like the sonication really warms up a 100ul sample quickly. We may want to reduce to 5s or less of sonication, then 5s in ethanol/dry ice bath, then in wet bath between sonications. Will the sample refreeze in the ethanol/dry-ce bath and is that bad? I will start with first sample and cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
+It seems like the sonication really warms up a 100ul sample quickly. We may want to reduce to 5s or less of sonication, then 5s in ethanol/dry ice bath, then in wet bath between sonications. Will the sample refreeze in the ethanol/dry-ice bath and is that bad? I will start with first sample and cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
 
 Place all of these samples back in the -80C for protein quantification at a later time.
