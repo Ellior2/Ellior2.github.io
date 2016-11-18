@@ -8,6 +8,8 @@ I pre-labeled 22 snaptop centrifuge tubes with the number assigned to each sampl
 
 First thing in the morning I will make 20ml of the 50mM NH4HCO3 in 6M Urea. To do so I will add 20ml of nanopure using a glass graduated cylinder into a 45ml falcon tube. Then I will weigh out 79.06mg of NH4HCO3 and add to the falcon tube and vortex to dissolve. Next I will weight out 7.21g of Urea and add this to the falcon tube. Again vortex to dissolve.
 
+Go get dry-ice from Health Sciences J-Wing. Find a cooler and tongs to bring with you.
+
 _Sonication Process_
 
 Obtain the 22 samples out of box in the -80C and place in rack.
@@ -16,6 +18,10 @@ Add 500ul of the 50mM NH4HCO3 + 6M urea solution to each of the 22 samples. Alwa
 
 After the centrifuge step, pipette out 100ul of supernatant liquid from each sample and put into the newly labeled centrifuge tubes accordingly. Discard pipette tip each time. Should I save the remaining sample in the -80C? 
 
-It seems like the sonication really warms up a 100ul sample quickly. We may want to reduce to 5s or less of sonication, then 5s in ethanol/dry ice bath, then in wet bath between sonications. I will start with first sample and cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
+Make an ethanol dry ice bath. Are there any special considerations here? Just add ethanol to dry ice in a small tray or container?
+
+Make a wetbath. Get ice (from where?) and add water. Place a test tube rack to store samples in between sonications.
+
+It seems like the sonication really warms up a 100ul sample quickly. We may want to reduce to 5s or less of sonication, then 5s in ethanol/dry ice bath, then in wet bath between sonications. Will the sample refreeze in the ethanol/dry-ce bath and is that bad? I will start with first sample and cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
 
 Place all of these samples back in the -80C for protein quantification at a later time.
