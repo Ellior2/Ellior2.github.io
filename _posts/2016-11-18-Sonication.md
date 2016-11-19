@@ -24,8 +24,8 @@ Make an ethanol dry ice bath. Use a plastic container and add ethanol first. The
 
 Make a wetbath. Get ice and add water. Place a test tube rack to store samples in between sonications. Try to find something that will prevent the samples from floating.
 
-Sonicate for 5s (setting is at 50%) then place in ethanol/dry ice bath for 5s, then in wet bath between sonications. Start with first sample and cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
+Sonicate first sample for 5s (setting is at 50%) then place in ethanol/dry ice bath for 5s, then in wet bath between sonications. Clean sonication tip with ethanol and nanopure between samples. Cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
 
-For each sonicated sample, pipette 11ul into a new labeled centrifuge tube for protein quantification and 100ul into another labeled tube for the digestion process. You should now have 4 tubes for every sample (original one still with homogenized larvae, one with leftover sonicated sample, one with 11ul for protein quantification, and one with 100ul for protein digestion)
+For each sonicated sample, pipette 11ul into a new labeled centrifuge tube for protein quantification and 100ul into another labeled tube for the digestion process. You should now have 4 tubes for every sample (original one still with homogenized larvae, one with ~39ul leftover sonicated sample, one with 11ul for protein quantification, and one with 100ul for protein digestion)
 
 Place all of these samples back in the -80C.
