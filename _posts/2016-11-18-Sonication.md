@@ -8,7 +8,7 @@ I already pulled the 22 samples we will run out of the main box and put them in 
 
 Label 3 new sets of the 22 snaptop centrifuge tubes with the number assigned to each sample we will run.
 
-First thing in the morning I will make 20ml of the 50mM NH4HCO3 in 6M Urea. To do so I will add 10ml of nanopure using a glass graduated cylinder into a 45ml falcon tube. Then I will weigh out 79.06mg of NH4HCO3 and add to the falcon tube and vortex to dissolve. Next I will weighh out 7.21g of Urea and add this to the falcon tube. Again vortex to dissolve. Then I will top off the volume to 20ml by pouring the solution back into the graduated cylinder and top off to 20ml. Pour solution back into falcon tube.
+First thing in the morning I will make 20ml of the 50mM NH4HCO3 in 6M Urea. To do so I will add 10ml of nanopure using a glass graduated cylinder into a 45ml falcon tube. Then I will weigh out 79.06mg of NH4HCO3 and add to the falcon tube and vortex to dissolve. Next I will weigh out 7.21g of Urea and add this to the falcon tube. Again vortex to dissolve. Then I will top off the volume to 20ml by pouring the solution back into the graduated cylinder and top off to 20ml. Pour solution back into falcon tube.
 
 Go get dry-ice from Health Sciences J-Wing. Find a cooler to bring with you.
 
