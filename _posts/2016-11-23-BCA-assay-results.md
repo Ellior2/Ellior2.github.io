@@ -5,9 +5,9 @@ title: BCA results
 
 11/23/2016
 
-Today we completed the protein assay!
+### Today we completed the protein assay!
 
-We followed the protocol we have written up here.
+We followed the protocol we have written up [here](https://github.com/Ellior2/Ellior2.github.io/blob/master/_posts/2016-11-22-BCA-assay.md)
 
 *For Sample #56 we made a mistake and only have two replicates instead of three.
 
