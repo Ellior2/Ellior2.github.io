@@ -14,7 +14,7 @@ We followed the protocol I have written up [here](https://github.com/Ellior2/Ell
 After I got the resulting absorbances from the Spectrophotometer plate reader I calculated the protein concentrations and determined how much of each sample I will need for the digestion protocol.
 
 
-![graph](Ellior2.github.io/images/ProteinAssay.pdf)
+[graph](Ellior2.github.io/images/ProteinAssay.pdf)
 
 
 | Well | Contents  | Replicate | Absorbance at 562nm | Average  | Net A    | BSA concentration (ug/ul) | ul required for 100ug | ml of sample | ml of NH4HCO3 | ug of protein in 100ul of sample |
