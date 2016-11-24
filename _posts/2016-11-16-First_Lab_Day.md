@@ -1,4 +1,11 @@
-11/16/16
+---
+
+layout: post
+title: First Lab Day
+---
+
+
+11/16/2016
 
 ### First day in Lab!
 

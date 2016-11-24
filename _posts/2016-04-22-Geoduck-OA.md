@@ -1,3 +1,11 @@
+---
+
+layout: post
+title: 2016 Geoduck Larvae OA experiment
+---
+
+04/22/2016
+
 ## Geoduck OA Experiment
 4/22/16-5/16/16 Conducted at the Taylor Shellfish Hatchery in Quilcene, WA by @Ellior2
 
