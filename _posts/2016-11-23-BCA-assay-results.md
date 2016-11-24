@@ -1,3 +1,8 @@
+---
+layout: post
+title: BCA protocol
+---
+
 11/23/2016
 
 Today we completed the protein assay!
