@@ -15,6 +15,7 @@ After I got the resulting absorbances from the Spectrophotometer plate reader I 
 
 [graph](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/ProteinAssay.pdf)
 
+
 | Well | Contents  | Replicate | Absorbance at 562nm | Average Absorbance | Blank-corrected Absorbance | BSA concentration (ug/ul) | ul required for 100ug | ml of sample | ml of NH4HCO3 | ug of protein in 100ul of sample |
 |------|-----------|-----------|---------------------|--------------------|----------------------------|---------------------------|-----------------------|--------------|---------------|----------------------------------|
 | A1   | Vial B    | 1         | 0.986               | 0.981              | 0.881                      | 1.500                     |                       |              |               |                                  |
