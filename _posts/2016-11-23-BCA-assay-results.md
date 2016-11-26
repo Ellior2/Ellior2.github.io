@@ -16,7 +16,7 @@ After I got the resulting absorbances from the Spectrophotometer plate reader I 
 [graph](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/ProteinAssay.pdf)
 
 
-| Well | Contents | Replicate | Absorbance at 562nm | Average Absorbance | Blank-corrected Absorbance | BSA concentration (ug/ul) | Correction for dilution of NH4HCO3 | ul of sample required for 100ug | ul to add of NH4HCO3 |
+| Well | Contents | Rep | Abs. at 562nm | Avg. Abs. | Blank-corr. Abs. | BSA conc. (ug/ul) | Corr. for NH4HCO3 dilutoni | ul of sample required for 100ug | ul to add of NH4HCO3 |
 |------|-----------|-----------|---------------------|--------------------|----------------------------|---------------------------|------------------------------------|---------------------------------|----------------------|
 | A1 | Vial B | 1 | 0.986 | 0.981 | 0.881 | 1.500 |  |  |  |
 | A2 | Vial B | 2 | 0.991 |  |  |  |  |  |  |
