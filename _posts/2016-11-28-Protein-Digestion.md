@@ -75,9 +75,7 @@ __Procedure:__
 
 17) Got 4 trypsin bottles each with 20ug of trypsin out of the freezer. Added 20ul of nanopure to each of the four bottles. The concentration is 1ug/ul so I will add 3.3ul to each sample for a 1:30 enzyme to protein ratio.
 
-
-
-18) Added
+18) Incubated samples overnight.
 
 
 

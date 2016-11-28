@@ -15,6 +15,16 @@ After I got the resulting absorbances from the Spectrophotometer plate reader I 
 
 [graph](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/ProteinAssay.pdf)
 
+1) Obtained measured wavelengths at 562nm for each of the standards and replicates from the spectrophotometer. I averaged the three replicates for each.
+
+2) Subtracted the average blank measured absorbance at wavelength 562nm from each of the standards and replicates. This is the Blank-corrected Absorbance.
+
+3) I created a scatter plot in excel for the standards by plotting the BSA concentration (ug/ul) on the Y-axis and the blank-corrected absorbances on the X-axis. I did those so I could easily plug in the X (absorbance) and calculate the Y (protein concentration).
+
+4) Because I diluted with 1:2 with 50 mM NH4HCO3 in 6M Urea, I multiplied the protein concentrations I calculated by 3.
+
+5) Then I calculated how much volume is needed to have 100ug of protein in each of my samples. Because we want to start the Mini-Trypsin digestion with 100ul, I figured out how many microliters of 50mM NH4HCO3 in 6M urea I needed to add.
+
 
 | Well | Contents | Rep | Abs. at 562nm | Avg. Abs. | Blank-corr. Abs. | BSA conc. (ug/ul) | Corr. for NH4HCO3 dilution | ul of sample required for 100ug | ul to add of NH4HCO3 |
 |------|-----------|-----------|---------------------|--------------------|----------------------------|---------------------------|------------------------------------|---------------------------------|----------------------|
