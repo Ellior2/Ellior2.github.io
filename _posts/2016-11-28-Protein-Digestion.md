@@ -32,9 +32,12 @@ _Dissolve 3.6g Urea into the 5ml solution. Top off to 10ml._
 __25mM NH4HCO3__
 
 To make a 25ml solution (800ul required/sample)-Must use within 24hrs of making it.
+
 MW: 79.06g/mol
+
 (79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 25ml = 49.4mg of NH4HCO3 for 25ml
-Dissolve 197.65mg NH4HCO3 in 20ml nanopure by vortexing. Then top off to 25ml.
+
+_Dissolve 197.65mg NH4HCO3 in 20ml nanopure by vortexing. Then top off to 25ml._
 
 __Procedure:__
 
