@@ -37,7 +37,7 @@ MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 25ml = 49.4mg of NH4HCO3 for 25ml
 
-_Dissolve 197.65mg NH4HCO3 in 20ml nanopure by vortexing. Then top off to 25ml._
+_Dissolve 49.4mg NH4HCO3 in 20ml nanopure by vortexing. Then top off to 25ml._
 
 __Procedure:__
 
