@@ -14,14 +14,20 @@ __50mM ammonium bicarbonate in 6M urea__
 To make a 10ml solution
 
 For ammonium bicarbonate (NH4HCO3)-must use within 24hrs of making it.
+
 MW: 79.06g/mol
+
 (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 10ml = 39.53 mg of NH4HCO3 for 10ml
-Dissolve 39.53mg NH4HCO3 into 5ml nanopure. 
+
+_Dissolve 39.53mg NH4HCO3 into 5ml nanopure._
 
 For Urea:
+
 MW: 60.06g/ml
+
 (60.06g/mol)x(6mol/L)x(1L/1000ml)x 5ml= 3.6g Urea to add to the 5ml.
-Dissolve 3.6g Urea into the 5ml solution. Top off to 10ml.
+
+_Dissolve 3.6g Urea into the 5ml solution. Top off to 10ml._
 
 __25mM NH4HCO3__
 
