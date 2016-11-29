@@ -61,7 +61,7 @@ __Procedure:__
 
 10) Defrosted and added 20ul of IAA to each sample.
 
-11) Incubated for 1 hr in the dark.
+11) Incubated for 1 hr in the dark at room temp.
 
 12) Defrosted 3- 200ul DTT aliquots and added 20ul to each sample.
 
