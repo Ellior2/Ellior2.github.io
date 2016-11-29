@@ -25,7 +25,7 @@ Obtained the 22 samples out of box in the -80C and placed in rack.
 
 Added 500ul of the 50mM NH4HCO3 + 6M urea solution to each of the 22 samples. Worked in numerical order to make sure the timing of each of these steps was as similar as possible for each sample. Homogenized each sample with a clean blue plastic pestel. Since the cryotubes didn't fit in the centrifuge, I pipetted the supernatant into a clean labeled snaptop centrifuge tube. I placed them in the centrifuge set at 2000rpm for 5 minutes. 
 
-After the centrifuge step, I pipetted out 150ul of supernatant liquid from each sample and put into the first set of newly labeled centrifuge tubes accordingly. Saved the remaining samples in the -80C.
+After the centrifuge step, I pipetted out 150ul of supernatant liquid from each sample and put into clean labeled tube. Saved the remaining samples in the -80C.
 
 Made an ethanol dry ice bath. Used a plastic container and added ethanol first. Then I carefully dropped in pieces of dry ice. Once the dry-ice was not dissolving very fast, the solution was cold enough.
 
