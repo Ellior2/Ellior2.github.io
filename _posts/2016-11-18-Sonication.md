@@ -13,26 +13,26 @@ _Preliminary Steps_
 
 I already pulled the 22 samples we will run out of the main box and put them in a seperate labeled box in the -80C freezer.
 
-Label 3 new sets of the 22 snaptop centrifuge tubes with the number assigned to each sample we will run.
+Labeled 3 new sets of the 22 snaptop centrifuge tubes with the number assigned to each sample we will run.
 
-First thing in the morning I will make 20ml of the 50mM NH4HCO3 in 6M Urea. To do so I will add 10ml of nanopure using a glass graduated cylinder into a 45ml falcon tube. Then I will weigh out 79.06mg of NH4HCO3 and add to the falcon tube and vortex to dissolve. Next I will weigh out 7.21g of Urea and add this to the falcon tube. Again vortex to dissolve. Then I will top off the volume to 20ml by pouring the solution back into the graduated cylinder and top off to 20ml. Pour solution back into falcon tube.
+First thing in the morning I made 20ml of the 50mM NH4HCO3 in 6M Urea. To do so added 10ml of nanopure using a glass graduated cylinder into a 45ml falcon tube. Then I weighed out 79.06mg of NH4HCO3 and added to the falcon tube and vortexed to dissolve. Next I weighed out 7.21g of Urea and added this to the falcon tube. Again vortexed to dissolve. Then I topped off the volume to 20ml by pouring the solution back into the graduated cylinder and adding nanopure. Poured solution back into falcon tube.
 
-Go get dry-ice from Health Sciences J-Wing. Find a cooler to bring with you.
+Brough a cooler and got dry-ice from building near Bagley. Needed SAFS box number 355020 and Roberts budget number.
 
 _Sonication Process_
 
-Obtain the 22 samples out of box in the -80C and place in rack.
+Obtained the 22 samples out of box in the -80C and placed in rack.
 
-Add 500ul of the 50mM NH4HCO3 + 6M urea solution to each of the 22 samples. Always work in numerical order to make sure the timing of each of these steps is as similar as possible for each sample. Begin homogenizing each sample with a clean blue plastic pestel. When all 22 samples have been homogenized place them in the centrifuge set at 2000xg for 5 minutes.
+Added 500ul of the 50mM NH4HCO3 + 6M urea solution to each of the 22 samples. Worked in numerical order to make sure the timing of each of these steps was as similar as possible for each sample. Homogenized each sample with a clean blue plastic pestel. Since the cryotubes didn't fit in the centrifuge, I pipetted the supernatant into a clean labeled snaptop centrifuge tube. I placed them in the centrifuge set at 2000rpm for 5 minutes. 
 
-After the centrifuge step, pipette out 150ul of supernatant liquid from each sample and put into the first set of newly labeled centrifuge tubes accordingly. Discard pipette tip each time. Save the remaining samples in the -80C.
+After the centrifuge step, I pipetted out 150ul of supernatant liquid from each sample and put into the first set of newly labeled centrifuge tubes accordingly. Saved the remaining samples in the -80C.
 
-Make an ethanol dry ice bath. Use a plastic container and add ethanol first. Then carefully drop in pieces of dry ice. Once the dry-ice is not dissolving very fast, the solution is probably cold enough.
+Made an ethanol dry ice bath. Used a plastic container and added ethanol first. Then I carefully dropped in pieces of dry ice. Once the dry-ice was not dissolving very fast, the solution was cold enough.
 
-Make a wetbath. Get ice and add water. Place a test tube rack to store samples in between sonications. Try to find something that will prevent the samples from floating.
+Made a wetbath. Got ice and placed in cooler. 
 
-Sonicate first sample for 5s (setting is at 50%) then place in ethanol/dry ice bath for 5s, then in wet bath between sonications. Clean sonication tip with ethanol and nanopure between samples. Cycle through the whole series before starting on the second round of sonications. Repeat for a total of three sonication rounds.
+Sonicated first sample for 5s (setting is at 50%) then placed in ethanol/dry ice bath for 5s. Repeated this process twice for a total of 3 sonication rounds. Once finished, I placed the sonicated sample in wet bath (just wedged samples directly in ice). Clean sonication tip with ethanol and wiped with kim wipe. Proceeded to repeat this process for the rest of the samples.
 
-For each sonicated sample, pipette 11ul into a new labeled centrifuge tube for protein quantification and 100ul into another labeled tube for the digestion process. You should now have 4 tubes for every sample (original one still with homogenized larvae, one with ~39ul leftover sonicated sample, one with 11ul for protein quantification, and one with 100ul for protein digestion)
+For each sonicated sample, I pipetted 11ul into a new labeled centrifuge tube for protein quantification. I now have 4 tubes for every sample (original cryotube with homogenized larvae, one snaptop centrifuge tube with leftover unsonicated sample, one  snaptop centrifuge tube with 11ul for protein quantification, and one snaptop centrifuge tube with remaining sonicated sample for protein digestion).
 
-Place all of these samples back in the -80C.
+Placed all of these samples back in the -80C.
