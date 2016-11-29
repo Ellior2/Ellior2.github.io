@@ -17,7 +17,7 @@ Labeled 3 new sets of the 22 snaptop centrifuge tubes with the number assigned t
 
 First thing in the morning I made 20ml of the 50mM NH4HCO3 in 6M Urea. To do so I added 10ml of nanopure using a glass graduated cylinder into a 45ml falcon tube. Then I weighed out 79.06mg of NH4HCO3 and added to the falcon tube and vortexed to dissolve. Next I weighed out 7.21g of Urea and added this to the falcon tube. Again vortexed to dissolve. Then I topped off the volume to 20ml by pouring the solution back into the graduated cylinder and adding nanopure. Poured solution back into falcon tube.
 
-Brough a cooler and got dry-ice from building near Bagley. Needed SAFS box number 355020 and Roberts budget number.
+Brought a cooler and got dry-ice from building near Bagley. Needed SAFS box number 355020 and Roberts budget number.
 
 _Sonication Process_
 
