@@ -27,7 +27,7 @@ MW: 60.06g/ml
 
 (60.06g/mol)x(6mol/L)x(1L/1000ml)x 5ml= 3.6g Urea to add to the 5ml.
 
-_Dissolve 3.6g Urea into the 5ml solution. Top off to 10ml._
+_Dissolve 3.6g Urea into the 5ml solution. Top off with nanopure to 10ml._
 
 __25mM NH4HCO3__
 
@@ -37,7 +37,7 @@ MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 25ml = 49.4mg of NH4HCO3 for 25ml
 
-_Dissolve 49.4mg NH4HCO3 in 20ml nanopure by vortexing. Then top off to 25ml._
+_Dissolve 49.4mg NH4HCO3 in 20ml nanopure by vortexing. Then top off with nanopure to 25ml._
 
 __Procedure:__
 
@@ -57,19 +57,19 @@ __Procedure:__
 
 8) Then I put the 22 samples in the 37C heating block for 1 hr.
 
-9) I got the IAA aliquot from the -80C and wrapped the tube in foil to keep the solution out of the light.
+9) I got 3-200ul IAA aliquots from the -80C and wrapped the tubes in foil to keep out of the light.
 
-10) Added 20ul of IAA to each sample.
+10) Defrosted and added 20ul of IAA to each sample.
 
 11) Incubated for 1 hr in a box.
 
-12) Defrosted DTT aliquot and added 20ul to each sample.
+12) Defrosted 3- 200ul DTT aliquots and added 20ul to each sample.
 
 13) Incubated for 1 hr at room temp.
 
 14) Added 450ul nanopure water to the 2AU Lys-C bottle which will create an enzyme solution of 2ug/ml. I added 1.65ul to each sample which is a 1:30 ratio of enzyme to protein.
 
-15) Incubated for one hour at room temp.
+15) Incubated for 1 hour at room temp.
 
 16) Added 800ul 25mM NH4HCO3 and 200ul HPLC grade methanol.
 
