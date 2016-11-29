@@ -77,6 +77,6 @@ __Procedure:__
 
 18) Incubated samples overnight.
 
-
+19) Evaporated samples at 4C in the Genome Sciences speed vac starting at 9AM.
 
 
