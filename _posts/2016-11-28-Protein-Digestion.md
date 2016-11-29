@@ -43,7 +43,7 @@ __Procedure:__
 
 1) Set up heating block and warmed up to 37C. Verified temperature with second thermometer.
 
-2) Got samples out of -80C as well at one aliquot of previously-made TCEP.
+2) Got samples out of -80C as well as one aliquot of previously-made TCEP.
 
 3) Vortexed samples gently and for each sample I pipetted the equivalent of 100ug of protein to a new labeled snaptop centrifuge tube. The protein concentrations were determined by the BCA assay completed on 11/23/2016. I put the leftover samples back in the -80C.
 
@@ -61,7 +61,7 @@ __Procedure:__
 
 10) Defrosted and added 20ul of IAA to each sample.
 
-11) Incubated for 1 hr in a box.
+11) Incubated for 1 hr in the dark.
 
 12) Defrosted 3- 200ul DTT aliquots and added 20ul to each sample.
 
