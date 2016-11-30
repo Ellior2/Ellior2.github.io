@@ -5,9 +5,7 @@ title: Mini-Trypsin Digestion
 
 11/28/2016
 
-### Mini-Trypsin Digestion
-
-In the morning I made two reagents:
+### Reagents required:
 
 __50mM ammonium bicarbonate in 6M urea__
 
@@ -39,7 +37,7 @@ MW: 79.06g/mol
 
 _Dissolved 49.4mg NH4HCO3 in 20ml nanopure by vortexing. Then topped off with nanopure to 25ml._
 
-__Procedure:__
+### Procedure:
 
 1) Set up heating block and warmed up to 37C. Verified temperature with second thermometer.
 
