@@ -7,9 +7,8 @@ title: Sonication Protocol
 
 11/21/2016
 
-### For the Sonication
 
-#### Preliminary Steps
+### Preliminary Steps
 
 I pulled the 22 samples we will run out of the main box and put them in a seperate labeled box in the -80C freezer.
 
@@ -19,7 +18,7 @@ First thing in the morning I made 20ml of the 50mM NH4HCO3 in 6M Urea. To do so 
 
 Brought a cooler and got dry-ice from building near Bagley. Needed SAFS box number 355020 and Roberts budget number.
 
-#### Sonication Process
+### Sonication Process
 
 1) Obtained the 22 samples out of box in the -80C and placed in rack. I tried our sonicator 11/21/16 and it broke. I went to the Genome Sciences building to use theirs on 11/22/16.
 
