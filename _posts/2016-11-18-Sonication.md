@@ -33,7 +33,7 @@ Made an ethanol dry ice bath. Used a plastic container and added ethanol first. 
 
 Made a wetbath. Got ice and placed in cooler. 
 
-Sonicated first sample for 5s (setting is at 5) then dipped in ethanol/dry ice bath for 5s. Repeated this process twice for a total of 3 sonication rounds. Once finished, I placed the sonicated sample in wet bath (just wedged samples directly in ice). Clean sonication tip with ethanol and wiped with kim wipe. Repeated this process for the rest of the samples.
+Sonicated first sample for 5s (setting is at 5) then dipped in ethanol/dry ice bath for 5s. Repeated this process twice for a total of 3 sonication rounds. Once finished, I placed the sonicated sample in wet bath (just wedged samples directly in ice). Cleaned sonication tip with ethanol and wiped with kim wipe. Repeated this process for the rest of the samples.
 
 Brought samples back to FISH209.
 
