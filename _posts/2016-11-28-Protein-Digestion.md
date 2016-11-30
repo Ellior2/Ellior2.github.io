@@ -5,7 +5,7 @@ title: Mini-Trypsin Digestion
 
 11/28/2016
 
-### Reagents required:
+### Reagents that need to be made fresh before starting:
 
 __50mM ammonium bicarbonate in 6M urea__
 
