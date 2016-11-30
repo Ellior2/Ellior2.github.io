@@ -19,7 +19,7 @@ MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 10ml = 39.53 mg of NH4HCO3 for 10ml
 
-_Dissolve 39.53mg NH4HCO3 into 5ml nanopure._
+_Dissolved 39.53mg NH4HCO3 into 5ml nanopure._
 
 For Urea:
 
@@ -27,7 +27,7 @@ MW: 60.06g/ml
 
 (60.06g/mol)x(6mol/L)x(1L/1000ml)x 5ml= 3.6g Urea to add to the 5ml.
 
-_Dissolve 3.6g Urea into the 5ml solution. Top off with nanopure to 10ml._
+_Dissolved 3.6g Urea into the solution you just made. Topped off with nanopure to 10ml._
 
 __25mM NH4HCO3__
 
@@ -37,7 +37,7 @@ MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 25ml = 49.4mg of NH4HCO3 for 25ml
 
-_Dissolve 49.4mg NH4HCO3 in 20ml nanopure by vortexing. Then top off with nanopure to 25ml._
+_Dissolved 49.4mg NH4HCO3 in 20ml nanopure by vortexing. Then topped off with nanopure to 25ml._
 
 __Procedure:__
 
