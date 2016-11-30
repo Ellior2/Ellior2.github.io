@@ -17,7 +17,7 @@ __For this procedure you will need:__
 
 #### Procedure
 
-1) Reconstitute samples by adding 100ul of Solvent B. Adjust pH to less than 2 using 10ul of 10% formic acid at a time. (Last time we ended up using 100ul of 0.1% and 70ul of 10% formic acid.)
+1) Reconstitute samples by adding 100ul of Solvent B. Adjust pH to less than 2 using 10ul of 10% formic acid at a time (last time we ended up using 100ul of 0.1% and 70ul of 10% formic acid).
 
 2) Prepare macrospin columns by adding 200ul Solvent A to each column. Spin for 2000 rpm for 3 minutes (repeat 3 times for a total of 4 times). Discard remaining liquid at the bottom of tube everyother addition to accomodate room for next round.
 
