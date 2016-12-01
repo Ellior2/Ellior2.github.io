@@ -19,7 +19,7 @@ __For this procedure you will need:__
 
 #### Procedure
 
-1) Reconstituted samples by adding 100ul of Solvent B. Adjusted pH to less than 2 using 10ul of 10% formic acid at a time (I ended up using 80ul of 10% formic acid).
+1) Reconstituted samples by adding 100ul of Solvent B. Adjusted pH to less than 2 using 10ul of 10% formic acid at a time (I ended up using 80ul of 10% formic acid). I just tested the first sample and added the same amount of formic acid to the second one. I checked the pH to ensure it was also less than 2. Then I added 80ul of 10% formic acid to the remaining samples.
 
 2) Realized none of the centrifuge in our lab fit all 22 tubes when you have the columns in them. The columns make them wider so I had to use two different centrifuges. Prepared macrospin columns by adding 200ul Solvent A to each column. Spun for 2000 rpm for 3 minutes (repeat 3 times for a total of 4 times). Discarded remaining liquid at the bottom of tube everyother addition to accomodate room for next round.
 
@@ -31,7 +31,7 @@ __For this procedure you will need:__
 
 6) Transfered columns to clean collection tubes. Added 100ul Solvent A, spun at 300 rpm for 3 minutes (repeated once for a total of 2 times). This liquid contains your peptides.
 
-7) Evaporated samples to near dryness at 4C. 
+7) Evaporated samples to near dryness at 4C (took about 4 hrs).
 
 8) Reconstituted peptides in 100ul 3% acetonitrile + 0.1% formic acid. Placed samples in -80C. 
 

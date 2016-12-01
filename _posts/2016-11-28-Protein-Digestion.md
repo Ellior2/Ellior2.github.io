@@ -75,6 +75,6 @@ _Dissolved 49.4mg NH4HCO3 in 20ml nanopure by vortexing. Then topped off with na
 
 18) Incubated samples overnight.
 
-19) Evaporated samples at 4C in the Genome Sciences speed vac starting at 9AM.
+19) Evaporated samples at 4C in the Genome Sciences speed vac (took about 10 hours).
 
 
