@@ -17,9 +17,9 @@ After I got the resulting absorbances from the Spectrophotometer plate reader I 
 
 1) Obtained measured wavelengths at 562nm for each of the standards and replicates from the spectrophotometer. I averaged the three replicates for each.
 
-2) Subtracted the average blank measured absorbance at wavelength 562nm from each of the standards and replicates. This is the Blank-corrected Absorbance.
+2) Subtracted the average blank measured absorbance at wavelength 562nm from the averages of the standards and unknown samples. This is the Blank-corrected Absorbance.
 
-3) I created a scatter plot in excel for the standards by plotting the BSA concentration (ug/ul) on the Y-axis and the blank-corrected absorbances on the X-axis. I did those so I could easily plug in the X (absorbance) and calculate the Y (protein concentration).
+3) I created a scatter plot in excel for the standards by plotting the BSA concentration (ug/ul) on the Y-axis and the blank-corrected absorbances on the X-axis. I added a polynomial trendline and displayed the equation and r-squared value. I did those so I could easily plug in the X (absorbance) and calculate the Y (protein concentration).
 
 4) Because I diluted with 1:2 with 50 mM NH4HCO3 in 6M Urea, I multiplied the protein concentrations I calculated by 3.
 
