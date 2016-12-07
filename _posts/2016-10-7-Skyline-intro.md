@@ -1,4 +1,11 @@
-﻿##*Skyline tutorial with Emma 10/7/2016*
+﻿---
+layout: post
+title: Intro to Skyline
+---
+
+10/7/2016
+
+## Skyline tutorial with Emma
 
 Downloaded Skyline (version 3.5.0.9319) 9/27/16 
 
