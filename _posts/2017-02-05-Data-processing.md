@@ -80,4 +80,4 @@ And used this code in the bash window:
 
 See [Jupyter notebook](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/006-Abacus.ipynb)
 
-5) The next step will involve the Qspec spectral counter which is a web-based program found [here](http://www.nesvilab.org/qspec.php/). Input files need to be in .txt file format. This program finds differntially abundant proteins by giving you a log fold change and z-statistic for each protein. A protein is generally considered significant if it has a log fold change of a least |0.5| and a z-stat of at least |2|.
+5) The next step will involve the Qspec spectral counter which is a web-based program found [here](http://www.nesvilab.org/qspec.php/). Input files need to be in .txt file format. This program finds differntially abundant proteins by giving you a log fold change and z-statistic for each protein. A protein is generally considered significant if it has a log fold change of at least absolute value of 0.5 and a z-stat of at least absolute value of 2.
