@@ -1,4 +1,4 @@
-o---
+---
 
 layout: post
 title: DDA Data Processing from Mass Spec
