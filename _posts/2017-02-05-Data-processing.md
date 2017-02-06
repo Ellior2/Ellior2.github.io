@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 2016 Data Processing from Mass Spec
+title: DDA Data Processing from Mass Spec
 ---
 
 02/05/2017
@@ -45,6 +45,7 @@ See [Jupyter notebook](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/m
 2) Next you will run a program called Comet which will search your .mzXML files against a protein sequence database. For this step you will need three items:
 
 - A protein database for your target organism, in my case a Crassostrea gigas proteome ([contigs.fasta.transdecoder.pep](http://gigaton.sigenae.org/ngspipelines/#!/NGSpipelines/Crassostrea gigas - GIGATON)) with the addition of three contaminant files ([contam.other](https://raw.githubusercontent.com/Ellior2/Fish-546-Bioinformatics/master/analyses/DDA_2016/contam.other), [contam.human](https://raw.githubusercontent.com/Ellior2/Fish-546-Bioinformatics/master/analyses/DDA_2016/contam.human), and [contam.bovin](https://raw.githubusercontent.com/Ellior2/Fish-546-Bioinformatics/master/analyses/DDA_2016/contam.bovin)). I added the contaminant files using the following code:
+
 `!cat contam.bovin contam.human contam.other contigs.fasta.transdecoder.pep > contigs_contam.fasta.transdecoder.pep`
 
 - Your .mzXML files in one directory (excluding blanks and QCs)
@@ -54,11 +55,12 @@ See [Jupyter notebook](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/m
 All these files need to be in the same directory. Comet will produce pep.xml files for all your samples.
 
 I used the following code to conduct my searches:
+
 `!/home/shared/comet/comet.2016012.linux.exe -PPcomet.params.high-low -Dcontigs_contam.fasta.transdecoder.pep 20161205_Sample_*.mzXML`
 
 See [Jupyter notebook](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/001-Comet.ipynb)
 
-3) Next I calculated statistics associated with the peptide to protein matches using Trans Proteomic Pipeline (TPP). I used a p-value cut off of ____. I used the pep.xml files for this step and kept everything in the same directory. this step will create a series of interact- files for each of your pep.xml files. The following code was used:
+3) Next I calculated statistics associated with the peptide to protein matches using Trans Proteomic Pipeline (TPP). I used a p-value cut off of 0.9. I used the pep.xml files for this step and kept everything in the same directory. this step will create a series of interact- files for each of your pep.xml files. The following code was used:
 
 `!/usr/tpp_install/tpp/bin/xinteract -dDECOY_ -N20161205_sample_1 20161205_sample_1.pep.xml -p0.9 -OAp`
 
@@ -71,11 +73,13 @@ See Jupyter notebooks
 4) Abacus correlates protein inferences across my sample files so that a single protein can be associated with each peptide. The output will be a compiled single .tsv file with corresponding spectral counts and normalized spectral abundance factor (NSAF) which is a proxy for protein abundance. 
 
 I used the following code:
+
 `!/usr/tpp_install/tpp/bin/ProteinProphet interact*.pep.xml interact-COMBINED.prot.xml`
 
 I made an [Abacus parameter file](https://raw.githubusercontent.com/Ellior2/Fish-546-Bioinformatics/master/analyses/DDA_2016/Abacus_parameters.txt)
 
 And used this code in the bash window:
+
 `java -Xmx16g -jar /home/shared/abacus/abacus.jar -p ~/Documents/rhonda/Abacus_parameters.txt`
 
 See [Jupyter notebook](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/006-Abacus.ipynb)
