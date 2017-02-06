@@ -10,7 +10,7 @@ title: DDA Data Processing from Mass Spec
 
 I carried out all of my data processing by using `ssh` to remote login to Emu in the Roberts Lab. The following programs were installed to run the DDA proteomics analyses: Comet, Trans Proteomic Pipeline (Peptide and Protein Prophet), and Abacus. To use Jupyter Notebook to document my progress I tunnelled into Emu using the following procedure:
 
-- Open a Git Bash terminal locally and enter th
+- Open a Git Bash terminal locally and enter the follwing code:
 `ssh -N -L localhost:8000:localhost:7000 srlab@128.95.149.195` 
 
 - Enter password when prompted
