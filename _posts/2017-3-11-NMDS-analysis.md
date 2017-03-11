@@ -14,7 +14,7 @@ First I took the Abacus_output.tsv file, imported it into Excel and removed all 
 
 - PROTID   
 - PROTLEN   
-- the sample columns with addendum _NSAF   
+- the sample columns with addendum _ADJNSAF   
 
 I relabeled the column headers as followed for convience:   
 
