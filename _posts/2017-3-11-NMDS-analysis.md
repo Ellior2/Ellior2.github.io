@@ -18,52 +18,52 @@ First I took the Abacus_output.tsv file, imported it into Excel and removed all 
 
 I relabeled the column headers as followed for convience:   
 
-| sample ID | Sample # | new sample ID | Column # on CSV file |
-|-----------|----------|---------------|----------------------|
-| pool0     | 1        | 60            | 2                    |
-| pool0     | 1A       | 61            | 3                    |
-| S2CD3     | 3        | 62            | 4                    |
-| S2CD3     | 3A       | 63            | 5                    |
-| S3CD3     | 4        | 64            | 6                    |
-| S3CD3     | 4A       | 65            | 7                    |
-| S9HD3     | 8        | 66            | 8                    |
-| S9HD3     | 8A       | 67            | 9                    |
-| S2CD5     | 11       | 68            | 10                   |
-| S2CD5     | 11A      | 69            | 11                   |
-| S3CD5     | 12       | 70            | 12                   |
-| S3CD5     | 12A      | 71            | 13                   |
-| S9HD5     | 16       | 72            | 14                   |
-| S9HD5     | 16A      | 73            | 15                   |
-| S2CD7     | 19       | 74            | 16                   |
-| S2CD7     | 19A      | 75            | 17                   |
-| s3CD7     | 20       | 76            | 18                   |
-| S3CD7     | 20A      | 77            | 19                   |
-| S9HD7     | 24       | 78            | 20                   |
-| S9HD7     | 24A      | 79            | 21                   |
-| S2CD9     | 27       | 80            | 22                   |
-| S2CD9     | 27A      | 81            | 23                   |
-| S3CD9     | 28       | 82            | 24                   |
-| S3CD9     | 28A      | 83            | 25                   |
-| S9HD9     | 32       | 84            | 26                   |
-| S9HD9     | 32A      | 85            | 27                   |
-| S2CD11    | 35       | 86            | 28                   |
-| S2CD11    | 35A      | 87            | 29                   |
-| S3CD11    | 36       | 88            | 30                   |
-| S3CD11    | 36A      | 89            | 31                   |
-| S9HD11    | 40       | 90            | 32                   |
-| S9HD11    | 40A      | 91            | 33                   |
-| S2CD13    | 43       | 92            | 34                   |
-| S2CD13    | 43A      | 93            | 35                   |
-| S3CD13    | 44       | 94            | 36                   |
-| S3CD13    | 44A      | 95            | 37                   |
-| S9HD13    | 48       | 96            | 38                   |
-| S9HD13    | 48A      | 97            | 39                   |
-| S2CD15    | 51       | 98            | 40                   |
-| S2CD15    | 51A      | 99            | 41                   |
-| S3CD15    | 52       | 100           | 42                   |
-| S3CD15    | 52A      | 101           | 43                   |
-| S9HD15    | 56       | 102           | 44                   |
-| S9HD15    | 56A      | 103           | 45                   |
+| sample ID | Sample # | new sample ID | Column # on CSV file | Contents                    |
+|-----------|----------|---------------|----------------------|-----------------------------|
+| pool0     | 1        | 60            | 2                    | pooled larvae               |
+| pool0     | 1A       | 61            | 3                    | pooled larvae               |
+| S2CD3     | 3        | 62            | 4                    | Silo 2, Cold, Day 3, Rep 1  |
+| S2CD3     | 3A       | 63            | 5                    | Silo 2, Cold, Day 3, Rep 2  |
+| S3CD3     | 4        | 64            | 6                    | Silo 3, Cold, Day 3, Rep 1  |
+| S3CD3     | 4A       | 65            | 7                    | Silo 3, Cold, Day 3, Rep 2  |
+| S9HD3     | 8        | 66            | 8                    | Silo 9, Hot, Day 3, Rep 1   |
+| S9HD3     | 8A       | 67            | 9                    | Silo 9, Hot, Day 3, Rep 2   |
+| S2CD5     | 11       | 68            | 10                   | Silo 2, Cold, Day 5, Rep 1  |
+| S2CD5     | 11A      | 69            | 11                   | Silo 2, Cold, Day 5, Rep 2  |
+| S3CD5     | 12       | 70            | 12                   | Silo 3, Cold, Day 5, Rep 1  |
+| S3CD5     | 12A      | 71            | 13                   | Silo 3, Cold, Day 5, Rep 2  |
+| S9HD5     | 16       | 72            | 14                   | Silo 9, Hot, Day 5, Rep 1   |
+| S9HD5     | 16A      | 73            | 15                   | Silo 9, Hot, Day 5, Rep 2   |
+| S2CD7     | 19       | 74            | 16                   | Silo 2, Cold, Day 7, Rep 1  |
+| S2CD7     | 19A      | 75            | 17                   | Silo 2, Cold, Day 7, Rep 2  |
+| s3CD7     | 20       | 76            | 18                   | Silo 3, Cold, Day 7, Rep 1  |
+| S3CD7     | 20A      | 77            | 19                   | Silo 3, Cold, Day 7, Rep 2  |
+| S9HD7     | 24       | 78            | 20                   | Silo 9, Hot, Day 7, Rep 1   |
+| S9HD7     | 24A      | 79            | 21                   | Silo 9, Hot, Day 7, Rep 2   |
+| S2CD9     | 27       | 80            | 22                   | Silo 2, Cold, Day 9, Rep 1  |
+| S2CD9     | 27A      | 81            | 23                   | Silo 2, Cold, Day 9, Rep 2  |
+| S3CD9     | 28       | 82            | 24                   | Silo 3, Cold, Day 9, Rep 1  |
+| S3CD9     | 28A      | 83            | 25                   | Silo 3, Cold, Day 9, Rep 2  |
+| S9HD9     | 32       | 84            | 26                   | Silo 9, Hot , Day 9, Rep 1  |
+| S9HD9     | 32A      | 85            | 27                   | Silo 9, Hot, Day 9, Rep 2   |
+| S2CD11    | 35       | 86            | 28                   | Silo 2, Cold, Day 11, Rep 1 |
+| S2CD11    | 35A      | 87            | 29                   | Silo 2, Cold, Day 11, Rep 2 |
+| S3CD11    | 36       | 88            | 30                   | Silo 3, Cold, Day 11, Rep 1 |
+| S3CD11    | 36A      | 89            | 31                   | Silo 3, Cold, Day 11, Rep 2 |
+| S9HD11    | 40       | 90            | 32                   | Silo 9, Hot, Day 11, Rep 1  |
+| S9HD11    | 40A      | 91            | 33                   | Silo 9, Hot, Day 11, Rep 2  |
+| S2CD13    | 43       | 92            | 34                   | Silo 2, Cold, Day 13, Rep 1 |
+| S2CD13    | 43A      | 93            | 35                   | Silo 2, Cold, Day 13, Rep 2 |
+| S3CD13    | 44       | 94            | 36                   | Silo 3, Cold, Day 13, Rep 1 |
+| S3CD13    | 44A      | 95            | 37                   | Silo 3, Cold, Day 13, Rep 2 |
+| S9HD13    | 48       | 96            | 38                   | Silo 9, Hot, Day 13, Rep 1  |
+| S9HD13    | 48A      | 97            | 39                   | Silo 9, Hot Day 13, Rep 2   |
+| S2CD15    | 51       | 98            | 40                   | Silo 2, Cold, Day 15, Rep 1 |
+| S2CD15    | 51A      | 99            | 41                   | Silo 2, Cold, Day 15, Rep 2 |
+| S3CD15    | 52       | 100           | 42                   | Silo 3, Cold, Day 15, Rep 1 |
+| S3CD15    | 52A      | 101           | 43                   | Silo 3, Cold, Day 15, Rep 2 |
+| S9HD15    | 56       | 102           | 44                   | Silo 9, Hot, Day 15, Rep 1  |
+| S9HD15    | 56A      | 103           | 45                   | Silo 9, Hot, Day 15, Rep 2  |
 
 I then sorted the whole file from left to right (from lower to higher numerical values) using Row 1. This will put all my sample numbers in order.  
 
