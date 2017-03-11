@@ -65,7 +65,9 @@ I relabeled the column headers as followed for convience:
 | S9HD15    | 56       | 102           | 44                   |
 | S9HD15    | 56A      | 103           | 45                   |
 
-I then sorted the whole file from left to right (from lower to higher numerical values) using Row 1. This will put all my sample numbers in order.   
+I then sorted the whole file from left to right (from lower to higher numerical values) using Row 1. This will put all my sample numbers in order.  
+
+Here is my [file](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/Abacus_ADJNSAF.csv) 
 
 I ran the following code in R:   
 
