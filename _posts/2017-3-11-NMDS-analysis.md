@@ -131,6 +131,7 @@ oyster.cv<-cbind(pool0.cv,S2CD3.cv,S3CD3.cv,S9HD3.cv,S2CD5.cv,S3CD5.cv,S9HD5.cv,
 
 boxplot(oyster.cv,outline=T,names=c('pool0','S2CD3','S3CD3','S9HD3','S2CD5','S3CD5','S9HD5','S2CD7','S3CD7','S9HD7','S2CD9','S3CD9','S9HD9','S2CD11','S3CD11','S9HD11','S2CD13','S3CD13','S9HD13','S2CD15','S3CD15','S9HD15'))
 
+Here is the [boxplot](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/boxplot_reps.emf)
 
 
 
