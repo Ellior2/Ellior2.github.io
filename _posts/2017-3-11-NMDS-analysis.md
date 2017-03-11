@@ -8,7 +8,7 @@ title: 2016 Data Processing-NMDS
 
 ### NMDS in R using Vegan
 
-I am using non-metric multidimensional scaling to understand how the replicates differ.   
+I am using non-metric multidimensional (NMDS) to examine similarity between technical replicates using the vegan and raster packages in R.
 
 First I took the Abacus_output.tsv file, imported it into Excel and removed all columns except:   
 
