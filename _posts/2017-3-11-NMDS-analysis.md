@@ -8,15 +8,15 @@ title: 2016 Data Processing-NMDS
 
 ### NMDS in R using Vegan
 
-I am using non-metric multidimensional scaling to understand how the replicates differ.
+I am using non-metric multidimensional scaling to understand how the replicates differ.   
 
-First I took the Abacus_output.tsv file, imported it into Excel and removed all columns except:
+First I took the Abacus_output.tsv file, imported it into Excel and removed all columns except:   
 
-PROTID
-PROTLEN
-the sample columns with addendum _NSAF
+- PROTID   
+- PROTLEN   
+- the sample columns with addendum _NSAF   
 
-I relabeled the column headers as followed for convience:
+I relabeled the column headers as followed for convience:   
 
 | sample ID | Sample # | new sample ID | Column # on CSV file |
 |-----------|----------|---------------|----------------------|
@@ -65,20 +65,20 @@ I relabeled the column headers as followed for convience:
 | S9HD15    | 56       | 102           | 44                   |
 | S9HD15    | 56A      | 103           | 45                   |
 
-I then sorted the whole file from left to right (from lower to higher numerical values) using Row 1. This will put all my sample numbers in order.
+I then sorted the whole file from left to right (from lower to higher numerical values) using Row 1. This will put all my sample numbers in order.   
 
-I ran the following code in R:
+I ran the following code in R:   
 
-#to install packages
+#to install packages   
 install.packages("vegan")
 install.packages("raster")
 library(vegan)
 library(raster)
 
-#to input my data
+#to input my data   
 cg.reps<-read.csv('/Users/rhondae/Desktop/2016DDA/Abacus_3_5_17/ABACUS_ADJNSAF.csv',header=T,row.names=1)
 
-#to calculate coefficient of variation across technical replicates for each biological replicate
+#to calculate coefficient of variation across technical replicates for each biological replicate   
 pool0<-cbind(cg.reps[2],cg.reps[3])
 S2CD3<-cbind(cg.reps[4],cg.reps[5])
 S3CD3<-cbind(cg.reps[6],cg.reps[7])
@@ -129,7 +129,6 @@ oyster.cv<-cbind(pool0.cv,S2CD3.cv,S3CD3.cv,S9HD3.cv,S2CD5.cv,S3CD5.cv,S9HD5.cv,
 
 boxplot(oyster.cv,outline=T,names=c('pool0','S2CD3','S3CD3','S9HD3','S2CD5','S3CD5','S9HD5','S2CD7','S3CD7','S9HD7','S2CD9','S3CD9','S9HD9','S2CD11','S3CD11','S9HD11','S2CD13','S3CD13','S9HD13','S2CD15','S3CD15','S9HD15'))
 
-![]
 
 
 
