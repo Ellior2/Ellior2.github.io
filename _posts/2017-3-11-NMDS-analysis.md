@@ -69,7 +69,7 @@ I then sorted the whole file from left to right (from lower to higher numerical 
 
 Here is my [file](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/Abacus_ADJNSAF.csv) 
 
-I ran the following code in R:   
+__I ran the following code in R:__    
 
 #to install packages   
 install.packages("vegan")   
