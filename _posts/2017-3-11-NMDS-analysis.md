@@ -133,5 +133,5 @@ boxplot(oyster.cv,outline=T,names=c('pool0','S2CD3','S3CD3','S9HD3','S2CD5','S3C
 
 Here is the [boxplot](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/boxplot_reps.emf)
 
-
+Here is the [R code](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/DDA_2016/NMDS.R)
 
