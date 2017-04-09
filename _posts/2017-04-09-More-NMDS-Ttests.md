@@ -6,7 +6,7 @@ title: 2016 Data Processing-More NMDS
 
 04/09/2017
 
-### More NMDS and Paired T-tests to compare technical reps
+## More NMDS and Paired T-tests to compare technical reps
 
 I made a nicer NMDS in R using some fun shapes and colors of the rainbow.
 
@@ -16,8 +16,8 @@ install.packages("raster")
 library(raster)  
 
 
-# I used the GUI interface, looked on Packages Tab to find Install Packages. Then I selected BioStatR.
-# Then I loaded the biostats package.
+### I used the GUI interface, looked on Packages Tab to find Install Packages. Then I selected BioStatR.
+### Then I loaded the biostats package.
 
 source('~/GitHub/Fish-546-Bioinformatics/analyses/DDA_2016/biostats.R', encoding = 'UTF-8')
 
@@ -75,12 +75,12 @@ boxplot(oyster.cv,outline=T,names=c('pool0','S2CD3','S3CD3','S9HD3','S2CD5','S3C
 
 
 
-# NMDS
+## NMDS
 reps.t<-t(cg.reps)
 reps.tra<-(reps.t+1)
 reps.tra<-data.trans(reps.tra, method='log', plot=F)
 
-# assign colors to reps
+### assign colors to reps
 reps.nmds<-metaMDS(reps.tra, distance='bray', k=2, trymax=100, autotransform=F)
 fig.reps<-ordiplot(reps.nmds, choices=c(1,2), type='none', display='sites', xlab='Axis 1', ylab='Axis 2', cex=0.5)
 points(fig.reps, 'sites', col=c(rep('black',2), rep('red',2), rep('red',2), rep('red',2), rep('orange',2), rep('orange',2), rep('orange',2),rep('yellow',2), rep('yellow',2), rep('yellow',2), rep('green',2),rep('green',2),rep('green',2), rep('blue',2),rep('blue',2),rep('blue',2),rep('darkslateblue',2),rep('darkslateblue',2),rep('darkslateblue',2),rep('purple',2),rep('purple',2),rep('purple',2)), pch=c(rep(18,2), rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2),rep(17,2), rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2), rep(17,2),rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2), rep(17,2)))
@@ -94,7 +94,7 @@ legend("topright", legend=c("pool0","23C-Silo2", "23C-Silo3", "29C-Silo9"), pch=
 
 
 
-# Paired t-test to compare my technical replicates. If not statistically different, I will combine.
+## Paired t-test to compare my technical replicates. If not statistically different, I will combine.
 
 > t.test(cg.reps[,1],cg.reps[,2],paired=T)
 
