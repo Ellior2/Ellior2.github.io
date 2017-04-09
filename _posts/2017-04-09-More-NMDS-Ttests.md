@@ -88,7 +88,11 @@ legend("topright", legend=c("pool0","23C-Silo2", "23C-Silo3", "29C-Silo9"), pch=
 #Day 0=black, Day 3=red, Day 5=orange, Day 7=yellow, Day 9=green, Day 11=blue, Day 13=indigo, Day 15=purple
 #pool0= diamonds, 23C-Silo 2 = circles, 23C-Silo 3= square, 29-Silo 9 = triangles
 
-#paired t-test
+
+![NMDS](https://raw.githubusercontent.com/Ellior2/Fish-546-Bioinformatics/master/analyses/DDA_2016/NMDSplot.JPG)
+
+
+#paired t-test to compare my technical replicates. If not statistically different, I will combine.
 > t.test(cg.reps[,1],cg.reps[,2],paired=T)
 
 	Paired t-test
@@ -387,3 +391,6 @@ alternative hypothesis: true difference in means is not equal to 0
 sample estimates:
 mean of the differences 
            2.013502e-07 
+
+
+There is no statistical difference between any of my technical replicates so I can combine!
