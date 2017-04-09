@@ -85,7 +85,7 @@ reps.nmds<-metaMDS(reps.tra, distance='bray', k=2, trymax=100, autotransform=F)
 fig.reps<-ordiplot(reps.nmds, choices=c(1,2), type='none', display='sites', xlab='Axis 1', ylab='Axis 2', cex=0.5)
 points(fig.reps, 'sites', col=c(rep('black',2), rep('red',2), rep('red',2), rep('red',2), rep('orange',2), rep('orange',2), rep('orange',2),rep('yellow',2), rep('yellow',2), rep('yellow',2), rep('green',2),rep('green',2),rep('green',2), rep('blue',2),rep('blue',2),rep('blue',2),rep('darkslateblue',2),rep('darkslateblue',2),rep('darkslateblue',2),rep('purple',2),rep('purple',2),rep('purple',2)), pch=c(rep(18,2), rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2),rep(17,2), rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2), rep(17,2),rep(19,2), rep(15,2), rep(17,2), rep(19,2), rep(15,2), rep(17,2)))
 legend("topright", legend=c("pool0","23C-Silo2", "23C-Silo3", "29C-Silo9"), pch=c(18,19,15,17))
-#Day 0=black, Day 3=red, Day 5=orange, Day 7=yellow, Day 9=green, Day 11=blue, Day 13=indigo, Day 15=purple
+#Day 0=black, Day 3=red, Day 5=orange, Day 7=yellow, Day 9=green, Day 11=blue, Day 13=darkslateblue, Day 15=purple
 #pool0= diamonds, 23C-Silo 2 = circles, 23C-Silo 3= square, 29-Silo 9 = triangles
 
 
