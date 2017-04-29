@@ -10,11 +10,11 @@ title: 2016 Asking questions to guide exploration
 
 1) For all replicates, how does protein expression change from Day 3 to Day 5? What are some of the most differentially expressed proteins?
 
-2) What happens at Day 9? What are differences between Silos at Day 9?
+2) What happens at Day 9? What are the differences between silos at Day 9?
 
 Here I compared Sample 27 (Silo 2-23C at Day 9) with 32 (Silo 9-29C at Day 9). See [table](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32DiffProteins_annotated.tabular)
 
-3) Why does Silo 9 move up Axis 2 by Day 9? What are differentially expressed proteins between Silo 3 and Silo 9 on Day 11 and 13?
+3) Why does Silo 9-29C move up Axis 2 by Day 9? What are differentially expressed proteins between Silo 3 and Silo 9 on Day 11 and 13?
 
-4) Why does Silo 2 move right on Axis 1 on Day 11 and 13 when the biological replicate Silo 3 does not?
+4) Why does Silo 2-23C move right on Axis 1 on Day 11 and 13 when the biological replicate Silo 3-23C does not?
 
