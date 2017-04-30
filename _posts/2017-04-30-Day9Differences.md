@@ -16,7 +16,7 @@ I used Qspec to calculate statistics:
 
 - You will get an output with Z statistics and log fold change values. You want to consider all proteins with a Z-statistic with absolute value of at least 2 and a log fold change with an absolute value of at least 0.5.
 
-- Next you will annotate this file by joining (I like to use [Galaxy](https://usegalaxy.org/). Here is the [file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/query_results.txt) I used to join with my [output file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/27.32results.txt) from Qspec. 
+- Next you will annotate this file by joining (I like to use [Galaxy](https://usegalaxy.org/)). Here is the [file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/query_results.txt) I used to join with my [output file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/27.32results.txt) from Qspec. 
 
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Galaxyjoin.JPG)
 
