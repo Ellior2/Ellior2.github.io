@@ -31,7 +31,9 @@ I used Qspec to calculate statistics:
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Galaxyunfold.JPG)
 
 - Here are my two files:
+
 [Silo 2-23C high expression](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Silo2-23Chighexp_unfold.tabular)
+
 [Silo 9-29C high expression](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/SIlo9-29Chighexp_unfold.tabular)
 
 - Next I copied and pasted the GO terms and the associated Z-statistic to a new sheet. There were some proteins that were not annotated and so I deleted if there was no GO term associated with it for the [Revigo](http://revigo.irb.hr/revigo.jsp) analysis.
