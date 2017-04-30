@@ -1,14 +1,14 @@
 ---
 
 layout: post
-title: What happens at Day 9? What are differences in protein expression between silos at Day 9?
+title: What happened at Day 9?
 ---
 
 04/30/2017
 
-Here I compared Sample 27 (Silo 2-23C at Day 9) with 32 (Silo 9-29C at Day 9). See [table](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32DiffProteins_annotated.tabular)
+In the NMDS plot we noticed a divergence occuring at Day 9 between all of the silos. Here I compared Sample 27 (Silo 2-23C at Day 9) with 32 (Silo 9-29C at Day 9). See [table](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32DiffProteins_annotated.tabular)
 
-First I used Qspec to calculate statistics:
+I used Qspec to calculate statistics:
 
 - First using [Qspec](http://www.nesvilab.org/qspec.php/) I calculated statistics associated with differential protein expression between Silo 2-23C and Silo 9-29C at Day 9. Here is the [file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32.txt)
 
