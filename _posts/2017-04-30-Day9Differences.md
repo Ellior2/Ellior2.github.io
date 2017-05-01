@@ -22,7 +22,7 @@ I used Qspec to calculate statistics:
 
 - After annotation I sorted the file using true values. The negative values represent highly expressed proteins in your "0" treatment- or your first column in the file you uploaded to Qspec. The positive values represent highly expressed proteins in your "1" treatment- or second column.
 
-- The I seperated the file into two files- one with proteins highly expressed in my Silo 2-23C and one with proteins highly expressed in Silo 9-29C.
+- Then I seperated the file into two files- one with proteins highly expressed in my Silo 2-23C and one with proteins highly expressed in Silo 9-29C.
 
 - Now for each file, I sorted to remove any proteins that did not fit the statistical criteria described above.
 
