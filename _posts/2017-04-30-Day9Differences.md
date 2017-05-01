@@ -6,13 +6,15 @@ title: What happened at Day 9?
 
 04/30/2017
 
+![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/NMDSplot.JPG)
+
 In the NMDS plot we noticed a divergence occuring at Day 9 between all of the silos. Here I compared Sample 27 (Silo 2-23C at Day 9) with 32 (Silo 9-29C at Day 9). See [table](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32DiffProteins_annotated.tabular)
 
-I used Qspec to calculate statistics:
+I used [Qspec]((http://www.nesvilab.org/qspec.php/) to calculate statistics:
 
-- First using [Qspec](http://www.nesvilab.org/qspec.php/) I calculated statistics associated with differential protein expression between Silo 2-23C and Silo 9-29C at Day 9. Here is the [file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32.txt)
+![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/qspec.JPG)
 
-- [Here](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/qspec.JPG) is what Qspec looks like.
+- First using Qspec I calculated statistics associated with differential protein expression between Silo 2-23C and Silo 9-29C at Day 9. Here is the [file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32.txt)
 
 - You will get an output with Z statistics and log fold change values. You want to consider all proteins with a Z-statistic with absolute value of at least 2 and a log fold change with an absolute value of at least 0.5.
 
