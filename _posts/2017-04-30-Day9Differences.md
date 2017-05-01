@@ -45,6 +45,6 @@ I used Qspec to calculate statistics:
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Silo2-23CrevigoHighexp.JPG)
 
 
-### Silo 9-29C Diffentially expressed proteins
+### Silo 9-29C Differentially expressed proteins
 
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Silo9-29CrevigoHighexp.JPG)
