@@ -13,7 +13,7 @@ In the NMDS plot we noticed a divergence occuring at Day 9 between all of the si
 
 I used [Qspec](http://www.nesvilab.org/qspec.php/) to calculate statistics:
 
-![im](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32/qspec.JPG)
+![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/qspec.JPG)
 
 - First using Qspec I calculated statistics associated with differential protein expression between Silo 2-23C and Silo 9-29C at Day 9. Here is the [file](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/Qspec27.32.txt)
 
