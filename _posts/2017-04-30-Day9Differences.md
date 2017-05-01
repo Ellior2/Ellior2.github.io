@@ -40,11 +40,11 @@ I used Qspec to calculate statistics:
 
 - Here are the Revigo visualizations
 
-### Silo 2-23C Differentially expressed proteins
+### Silo 2-23C Highly expressed proteins
 
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Silo2-23CrevigoHighexp.JPG)
 
 
-### Silo 9-29C Differentially expressed proteins
+### Silo 9-29C Highly expressed proteins
 
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Silo9-29CrevigoHighexp.JPG)
