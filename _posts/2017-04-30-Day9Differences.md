@@ -11,7 +11,7 @@ Day 1: Black, Day 3: Red, Day 5: Orange, Day 7: Yellow, Day 9: Green, Day 11: Bl
 
 In the NMDS plot we noticed a divergence occuring at Day 9 between all of the silos. Here I compared Sample 27 (Silo 2-23C at Day 9) with 32 (Silo 9-29C at Day 9). See [table](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32DiffProteins_annotated.tabular)
 
-I used [Qspec]((http://www.nesvilab.org/qspec.php/) to calculate statistics:
+I used [Qspec](http://www.nesvilab.org/qspec.php/) to calculate statistics:
 
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/qspec.JPG)
 
