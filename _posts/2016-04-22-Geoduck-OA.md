@@ -35,7 +35,7 @@ Used a 20um screen to scoop ~10,000 swimming geoduck larvae from the conical. I 
 | 9          | 8.2                   | 8.2                   | 8.2                    |
 | 10         | 8.2                   | 8.2                   | 8.2                    |
 
-![Experimental Diagram](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/Geoduckdiagram.pdf)
+![Experimental Diagram](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/geoduck.JPG)
 
 ## Sample Identification Key
 
