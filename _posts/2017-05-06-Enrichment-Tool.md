@@ -21,3 +21,9 @@ Analysis type: Image
 Here is the [output](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentCell27.32ALL.png)
 
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentCell27.32ALL.png)
+
+Here is one where I selected GO aspect: Biological Process
+
+[Output](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentBio27.32ALL.png)
+
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentBio27.32ALL.png)
