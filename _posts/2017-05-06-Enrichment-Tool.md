@@ -27,3 +27,9 @@ Here is one where I selected GO aspect: Biological Process
 [Output](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentBio27.32ALL.png)
 
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentBio27.32ALL.png)
+
+And lastly one where I selected Molecular Function:
+
+[Output](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentMol27.32ALL.png)
+
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/EnrichmentMol27.32ALL.png)
