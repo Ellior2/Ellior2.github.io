@@ -22,6 +22,14 @@ In 2016, we reported greater survival to setting when geoducks were transferred 
 
 # __UPDATES:__
 
+
+### 5/8/17
+I did a little practice run with the hobo loggers to make sure they would all read the same temperature when held in the same tank.
+
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/Hobos.jpg)
+
+Looks pretty good!
+
 ### 5/9/17  
 We induced a natural geoduck spawn by raising seawater temperature from 14C to 16C and giving the animals higher algae rations. We also drain and refill the totes several times to initiate spawning.
 
@@ -41,7 +49,7 @@ First thing in the morning, I sampled larvae for proteomics. Because I want to s
 
 I dropped the conicals on 60 um screens and collected all larvae into one screen. I set aside while I chlorinated the whole system and began the treatments of low and high pH. 
 
-### Conical Design
+_Conical Layout_
 
 - 4: pH 8.2  
 - 6: pH 7.1  
@@ -51,6 +59,8 @@ I dropped the conicals on 60 um screens and collected all larvae into one screen
 - 10: pH 7.1  
 
 All larvae were pooled in a bucket, filled to 6L and plunged to redistribute 1L into each of the six conicals. Each conical has a 60um banjo.
+
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/geolarvae.JPG)
 
 Happy larvae back in their homes!
 
