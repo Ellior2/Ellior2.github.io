@@ -52,15 +52,7 @@ I used [Qspec](http://www.nesvilab.org/qspec.php/) to calculate statistics:
 
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/Silo9-29CrevigoHighexp.JPG)
 
-I also took lists of the total proteins detected in samples 27, 28 and 32 and imported them into Galaxy to make a Venn diagram of shared proteins at Day 9
 
-[Sample 27: Silo 2-23C at Day 9](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32/Proteins_27.txt)
-
-[Sample 28: Silo 3-23C at Day 9](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32/Proteins_28.txt)
-
-[Sample 32: Silo 9-29C at Day 9](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/Qspec27.32/Proteins_32.txt)
-
-![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/VennDay9.JPG)
 
 
 
