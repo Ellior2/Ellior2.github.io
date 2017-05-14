@@ -33,10 +33,10 @@ Looks pretty good!
 ### 5/9/17  
 We induced a natural geoduck spawn by raising seawater temperature from 14C to 16C and giving the animals higher algae rations. We also drain and refill the totes several times to initiate spawning.
 
-Sucess!! We pooled the eggs from several females and screened using an 80um to remove other biological material and a 20um screen to retain eggs. We divided the pooled eggs into the number of males we got. Then we fertlized each bucket of eggs with a different male. In total, we have 30 millions eggs to hatch in our research system in the new greenhouse! I dividied the eggs up evenly in 5 conicals with 28um banjos. I put a Hobo logged in each one.
+Sucess!! We pooled the eggs from several females and screened using an 80um to remove other biological material and a 20um screen to retain eggs. We divided the pooled eggs into the number of males we got. Then we fertlized each bucket of eggs with a different male. In total, we have 30 millions eggs to hatch in our research system in the new greenhouse! I divided the eggs up evenly in 5 conicals with 28um banjos. I put a Hobo logger in each one.
 
 ### 5/11/17  
-At 8AM in the morning, I checked conicals for D-hinge larvae. There were still many trochophores swimming around so I gave each conical 3L of food and gave them until the end of the day to develop. At 3PM I dropped all of the conicals on 48 um screens and combined into one screen. I checked to see if the larvae held on a 60 um screen and most did so I dumped the remaining colorless/underdeveloped larvae. I used a coulter counter to count the number of D-hinge I had in 5L:
+At 8AM in the morning, I checked conicals for D-hinge larvae. There were still many trochophores swimming around so I gave each conical 3L of food and gave them until the end of the day to develop. At 3PM I dropped all of the conicals on 48 um screens and combined into one screen. I checked to see if the larvae held on a 60 um screen and most did so I dumped the remaining colorless/underdeveloped larvae. I used a coulter counter to count the number of D-hinge I had in 5L. The coulter counter displays readings in # of larvae per ml.
 
 2474, 2358, 2466
 Average = 2433 *5000 = 12,163,333 larvae
