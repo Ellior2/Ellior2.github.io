@@ -17,7 +17,25 @@ In 2016, we reported greater survival to setting when geoducks were transferred 
 - Following morphology samples, I will again use a small mesh screen to capture larvae from each conical by scooping. I will give a genetle rinse using distilled water and quickly pipette out larvae with the least amount of water possible to transfer larvae to a cryotube. I will flash freeze before storing at -80C.
 
 ### Microbiomes   
-- For microbiome sampling I will fill a gallon container with effluent seawater from each conical. I will use a peristaltic pump to filter the seater through three filters using Swinnex filter holders. The three filters are 5um, 0.7um, and finally a 0.22um to retain bacteria. I will save all three filters from each conical and store at -80C.
+- For microbiome sampling I will fill a gallon container with effluent seawater from each conical. I will use a peristaltic pump to filter the seater through three filters using Swinnex filter holders. The three filters are 5um, 0.7um, and finally a 0.22um to retain bacteria. I will save all three filters from each conical and store at -80C. I will do this every other sampling day.
+
+Schedule:  
+5/15/17
+5/19/17
+5/24/17
+5/29/17
+6/2/17
+
+### Quantification   
+- To quantify larvae I will drop the conical and collect all larvae in a 3L pitcher. I will plunge the sample to distribute the larvae evenly within the water column. Based on the previous quantification I will calculate an approximate volume I will need to pipette in order to count at least 100 larvae. I will repeat this three times to get 3 counts within 10% of eachother. Then I can calculate how many larvae I have within each conical. This will also be done on every other sampling day- alternating with microbiome sampling.
+
+Schedule:   
+5/17/17
+5/22/17
+5/26/17
+5/31/17
+6/5/17
+
 
 
 # __UPDATES:__
@@ -63,6 +81,16 @@ All larvae were pooled in a bucket, filled to 6L and plunged to redistribute 1L 
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/geolarvae.JPG)
 
 Happy larvae back in their homes!
+
+### 5/15/17
+
+Today is the first full sampling day of all conicals.
+
+I started off the day by sampling each conical for proteomics. Then I took larval samples for microscopy. While I was measuring larvae Justin started on the seawater filtering. We collected the effluent from the conical within 30 minutes of filtration. We filtered seawater from 9AM until about 4PM. The middle filter 0.7um kept tearing which meant we had to redo the whole process.
+
+After the effluent was filtered from a conical I dropped it and started screening larvae. I dropped each conical on a 60um and decided to keep 80s and above because the larvae that fell through the 80um looked abnormally developed/unhealthy.
+
+I am seeing some abnormal velums and swimming behavior in both treatments.
 
 
 
