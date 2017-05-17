@@ -86,6 +86,9 @@ Happy larvae back in their homes!
 
 Here are some photos to start off today's post:
 
+Filtration set up
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/filters.JPG)
+
 My pH7.1 header which is seawater bubbled with CO2
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7.1header.JPG)
 
@@ -101,7 +104,8 @@ Conical with pH 7.1
 Conical with pH 8.2
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/conical8.2.JPG)
 
-
+Microbiome sampling
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/waterfilter.JPG)
 
 
 Today is the first full sampling day of all conicals.
@@ -112,7 +116,11 @@ After the effluent was filtered from a conical I dropped it and started screenin
 
 I am seeing some abnormal velums and swimming behavior in both treatments.
 
+pH 8.2 larvae
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/8.2larvae.JPG)
 
+pH 7.1 larvae
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7.1larvae.JPG)
 
 
 
