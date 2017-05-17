@@ -80,7 +80,7 @@ All larvae were pooled in a bucket, filled to 6L and plunged to redistribute 1L 
 
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/geolarvae.JPG)
 
-Happy larvae back in their homes!
+All of the larvae were distributed into their new homes.
 
 ### 5/15/17
 
@@ -89,26 +89,38 @@ Here are some photos to start off today's post:
 Filtration set up
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/filters.JPG)
 
+
+
 My pH7.1 header which is seawater bubbled with CO2
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7.1header.JPG)
+
+
 
 My pH8.2 header which is seawater treated with sodium carbonate
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/8.2header.JPG)
 
+
+
 Conicals
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/Conicals2.JPG)
+
+
 
 Conical with pH 7.1
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/conical7.1.JPG)
 
+
+
 Conical with pH 8.2
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/conical8.2.JPG)
+
+
 
 Microbiome sampling
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/waterfilter.JPG)
 
 
-Today is the first full sampling day of all conicals.
+Today was the first full sampling day of all conicals.
 
 I started off the day by sampling each conical for proteomics. Then I took larval samples for microscopy. While I was measuring larvae Justin started on the seawater filtering. We collected the effluent from the conical within 30 minutes of filtration. We filtered seawater from 9AM until about 4PM. The middle filter 0.7um kept tearing which meant we had to redo the whole process.
 
@@ -118,6 +130,8 @@ I am seeing some abnormal velums and swimming behavior in both treatments.
 
 pH 8.2 larvae
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/8.2larvae.JPG)
+
+
 
 pH 7.1 larvae
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7.1larvae.JPG)
