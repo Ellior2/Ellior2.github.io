@@ -136,6 +136,69 @@ pH 8.2 larvae
 pH 7.1 larvae
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7.1larvae.JPG)
 
+### 5/17/17
+
+Today I am going to quantify the larvae in each conical. Before doing counts however, I will sample for proteomics and morphology. I am guessing I have about 1- 1.5 million eggs so I calculated the volume required to count about 100 oysters from a 3L pitcher. If I pipette 200ul aliquots, I should be able to count an adequate number of larvae to estimate what I have in each conical. I will start with three replicates but if I need to do more I can.
+
+Conical 4: pH 8.2  
+Count 1: 69   
+Count 2: 68   
+COunt 3: 72   
+Average: 70   
+Number of larvae in 3L pitcher: 1,045,000   
+
+Conical 6: pH 7.1  
+Count 1: 76   
+Count 2: 56   
+Count 3: 84  
+Count 4: 82   
+Count 5: 96   
+Count 6: 87   
+Average: 80   
+Number of larvae in 3L pitcher: 1,202,500   
+
+Conical 7: pH 8.2    
+Count 1: 75   
+Count 2: 50   
+Count 3: 59   
+Count 4: 64   
+Count 5: 64   
+Count 6: 60   
+Average: 62
+Number of larvae in 3L pitcher: 930,000   
+
+Conical 8: pH 8.2  
+Count 1: 75   
+Count 2: 58   
+Count 3: 75  
+Count 4: 69   
+Count 5: 76   
+Count 6: 85   
+Average: 73   
+Number of larvae in 3L pitcher: 1,095,000   
+
+Conical 9: pH 7.1    
+Count 1: 77   
+Count 2: 65   
+Count 3: 83   
+Count 4: 85   
+Count 5: 86   
+Count 6: 71   
+Average: 78
+Number of larvae in 3L pitcher: 1,167,500
+
+Conical 10: pH 7.1    
+Count 1: 75   
+Count 2: 55   
+Count 3: 72   
+Count 4: 46   
+Count 5: 62   
+Count 6: 63   
+Average: 62
+Number of larvae in 3L pitcher: 932,500
+
+
+
 
 
 
