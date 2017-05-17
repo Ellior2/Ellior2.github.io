@@ -86,7 +86,7 @@ All of the larvae were distributed into their new homes.
 
 Here are some photos to start off today's post:
 
-Filtration set up
+Filtration set up as presented by Justin Thompson
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/filters.JPG)
 
 
