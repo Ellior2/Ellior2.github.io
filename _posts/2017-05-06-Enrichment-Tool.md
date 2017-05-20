@@ -10,7 +10,7 @@ Emma sent me a link to an enrichment tool developed by Mike Riffle. See [Github 
 
 And the [tool](http://www.yeastrc.org/compgo_oyster/pages/goAnalysisForm.jsp)
 
-For the first trial I copied a list of all the detected CHOYP... proteins for Sample 27 in Box 1 and all of the detected CHOYP proteins for Sample 32 in Box 2. 
+For the first trial I copied a list of all the detected CHOYP... proteins for Sample 27 (Silo 2-23C at Day 9) in Box 1 and all of the detected CHOYP proteins for Sample 32 (Silo 9-29C at Day 9) in Box 2. 
 
 For the GO aspect: Cellular component
 
