@@ -144,7 +144,7 @@ Conical 4: pH 8.2
 Count 1: 69   
 Count 2: 68   
 Count 3: 72   
-Average: 70   
+Average: 69.67 *3000ml / 0.2ml  = 1,045,000   
 Number of larvae in 3L pitcher: 1,045,000   
 
 Conical 6: pH 7.1  
@@ -154,7 +154,7 @@ Count 3: 84
 Count 4: 82   
 Count 5: 96   
 Count 6: 87   
-Average: 80   
+Average: 80.17 *3000ml / 0.2ml  = 1,202,500   
 Number of larvae in 3L pitcher: 1,202,500   
 
 Conical 7: pH 8.2    
@@ -164,7 +164,7 @@ Count 3: 59
 Count 4: 64   
 Count 5: 64   
 Count 6: 60   
-Average: 62   
+Average: 62.00 *3000ml / 0.2ml = 930,000   
 Number of larvae in 3L pitcher: 930,000   
 
 Conical 8: pH 8.2  
@@ -174,7 +174,7 @@ Count 3: 75
 Count 4: 69   
 Count 5: 76   
 Count 6: 85   
-Average: 73   
+Average: 73.00 *3000ml / 0.2ml = 1,095,000   
 Number of larvae in 3L pitcher: 1,095,000   
 
 Conical 9: pH 7.1    
@@ -184,7 +184,7 @@ Count 3: 83
 Count 4: 85   
 Count 5: 86   
 Count 6: 71   
-Average: 78   
+Average: 77.83 *3000ml / 0.2ml = 1,167,500   
 Number of larvae in 3L pitcher: 1,167,500
 
 Conical 10: pH 7.1    
@@ -194,7 +194,7 @@ Count 3: 72
 Count 4: 46   
 Count 5: 62   
 Count 6: 63   
-Average: 62   
+Average: 62.17 *3000ml / 0.2ml = 932,500   
 Number of larvae in 3L pitcher: 932,500
 
 
