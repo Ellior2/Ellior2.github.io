@@ -23,7 +23,7 @@ Here is a plot for [Biological Processes](https://raw.githubusercontent.com/Robe
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/BioProcesses27.32.JPG)
 
 
-And for [Molecular Functions]((https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/Molec27.32.JPG):
+And for [Molecular Functions](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/Molec27.32.JPG):
 
 ![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/Qspec27.32/Molec27.32.JPG)
 
