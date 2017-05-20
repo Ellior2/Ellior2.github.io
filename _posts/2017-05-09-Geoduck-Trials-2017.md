@@ -164,7 +164,7 @@ Count 3: 59
 Count 4: 64   
 Count 5: 64   
 Count 6: 60   
-Average: 62
+Average: 62   
 Number of larvae in 3L pitcher: 930,000   
 
 Conical 8: pH 8.2  
@@ -184,7 +184,7 @@ Count 3: 83
 Count 4: 85   
 Count 5: 86   
 Count 6: 71   
-Average: 78
+Average: 78   
 Number of larvae in 3L pitcher: 1,167,500
 
 Conical 10: pH 7.1    
@@ -194,7 +194,7 @@ Count 3: 72
 Count 4: 46   
 Count 5: 62   
 Count 6: 63   
-Average: 62
+Average: 62   
 Number of larvae in 3L pitcher: 932,500
 
 
