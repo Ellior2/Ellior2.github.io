@@ -143,7 +143,7 @@ Today I am going to quantify the larvae in each conical. Before doing counts how
 Conical 4: pH 8.2  
 Count 1: 69   
 Count 2: 68   
-COunt 3: 72   
+Count 3: 72   
 Average: 70   
 Number of larvae in 3L pitcher: 1,045,000   
 
