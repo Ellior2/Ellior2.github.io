@@ -233,8 +233,8 @@ Count 3: 52
 Count 4: 61   
 Count 5: 51   
 Count 6: 61   
-Average: 55.83 *3000ml / 0.3ml = 558.333   
-Number of larvae in 3L pitcher: 558.333   
+Average: 55.83 *3000ml / 0.3ml = 558,333   
+Number of larvae in 3L pitcher: 558,333   
 
 Conical 8: pH 8.2  
 Count 1: 37   
