@@ -198,7 +198,78 @@ Average: 62.17 *3000ml / 0.2ml = 932,500
 Number of larvae in 3L pitcher: 932,500
 
 
+### 5/19/17
 
+Brent helped out with microbiome sampling today. No quantification today but did proteomics and morphology. I kept all larvae holding on 100 micron screen.
 
+### 5/22/17
+
+Grace came out today and helped with microbiome sampling. I determined the number of larvae per conical by taking 300ul subsamples from a well distributed 3L pitcher of larvae. Here are my counts:
+
+Conical 4: pH 8.2  
+Count 1: 84   
+Count 2: 61   
+Count 3: 69   
+Count 4: 67   
+Count 5: 65   
+Count 6: 57   
+Average: 67.17 *3000ml / 0.3ml  = 671,667   
+Number of larvae in 3L pitcher: 671,667   
+
+Conical 6: pH 7.1  
+Count 1: 76   
+Count 2: 71   
+Count 3: 59  
+Count 4: 60   
+Count 5: 83   
+Count 6: 84   
+Average: 72.17 *3000ml / 0.3ml  = 721,667  
+Number of larvae in 3L pitcher: 721,667   
+
+Conical 7: pH 8.2    
+Count 1: 56   
+Count 2: 54   
+Count 3: 52   
+Count 4: 61   
+Count 5: 51   
+Count 6: 61   
+Average: 55.83 *3000ml / 0.3ml = 558.333   
+Number of larvae in 3L pitcher: 558.333   
+
+Conical 8: pH 8.2  
+Count 1: 37   
+Count 2: 73   
+Count 3: 85  
+Count 4: 71   
+Count 5: 54   
+Count 6: 67   
+Average: 64.50 *3000ml / 0.3ml = 645,000   
+Number of larvae in 3L pitcher: 645,000   
+
+Conical 9: pH 7.1    
+Count 1: 81   
+Count 2: 70   
+Count 3: 81   
+Count 4: 41   
+Count 5: 59   
+Count 6: 82   
+Average: 69.00 *3000ml / 0.3ml = 690,000   
+Number of larvae in 3L pitcher: 690,000   
+
+Conical 10: pH 7.1    
+Count 1: 88   
+Count 2: 70   
+Count 3: 60   
+Count 4: 60   
+Count 5: 32   
+Count 6: 83   
+Average: 65.50 *3000ml / 0.3ml = 655,000   
+Number of larvae in 3L pitcher: 655,000
+
+After quantification, I kept all larvae holding on a 118um screen.
+
+### 5/24/17
+
+No microbiome sampling or quantification today. Just morphology and proteomics. I kept all larvae holding on a 132um screen.
 
 
