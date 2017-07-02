@@ -23,7 +23,7 @@ __Production Room:__
 - Conical 45 and 46 are being supplied with water directly out of the treatment tank (In other words, the water is not coming from the normal path using the production resevoir)
 - Conical 47 and 48 are being supplied with control water (Production resevoir)
 
-This experiment should allow us to tease out certain factors that may contribute to the high mortality we are seeing.
+This experiment should allow us to tease out certain factors that may contribute to the high mortality we are seeing. Hobos were placed in the conicals 7/1/17
 
 _Histology_
 I will fix samples in 10% formalin for Ralph. At the same time I will sample larvae using PaxGene.
