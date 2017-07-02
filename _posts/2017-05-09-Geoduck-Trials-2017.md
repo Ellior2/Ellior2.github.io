@@ -272,4 +272,119 @@ After quantification, I kept all larvae holding on a 118um screen.
 
 No microbiome sampling or quantification today. Just morphology and proteomics. I kept all larvae holding on a 132um screen.
 
+### 5/26/17 
+
+Quantification, morphology, and proteomics. Grace came out to microbiome sample.
+
+Conical 4: pH 8.2  
+Count 1: 70   
+Count 2: 58   
+Count 3: 62   
+Count 4: 62   
+Count 5: 52   
+Count 6: 71   
+Average: 62.50 *3000ml / 0.3ml  = 625,000   
+Number of larvae in 3L pitcher: 625,000   
+
+Conical 6: pH 7.1  
+Count 1: 69   
+Count 2: 65   
+Count 3: 49  
+Count 4: 44   
+Count 5: 55   
+Count 6: 52   
+Average: 55.67 *3000ml / 0.3ml  = 556,667  
+Number of larvae in 3L pitcher: 556,667   
+
+Conical 7: pH 8.2    
+Count 1: 27   
+Count 2: 54   
+Count 3: 42   
+Count 4: 33   
+Count 5: 38   
+Count 6: 38   
+Average: 38.67 *3000ml / 0.3ml = 386,667   
+Number of larvae in 3L pitcher: 386,667   
+
+Conical 8: pH 8.2  
+Count 1: 68   
+Count 2: 49   
+Count 3: 37  
+Count 4: 49   
+Count 5: 44   
+Count 6: 58   
+Average: 50.83 *3000ml / 0.3ml = 508,333   
+Number of larvae in 3L pitcher: 508,333   
+
+Conical 9: pH 7.1    
+Count 1: 79   
+Count 2: 76   
+Count 3: 82   
+Count 4: 79   
+Count 5: 89   
+Count 6: 71   
+Average: 79.33 *3000ml / 0.3ml = 793,333   
+Number of larvae in 3L pitcher: 793,333   
+
+Conical 10: pH 7.1    
+Count 1: 61   
+Count 2: 58   
+Count 3: 61   
+Count 4: 70   
+Count 5: 62   
+Count 6: 76   
+Average: 64.67 *3000ml / 0.3ml = 646,667   
+Number of larvae in 3L pitcher: 646,667
+
+### 5/28/17
+
+Sampled for morphology and proteomics- last time. I am harvesting setters today.
+
+pH 8.2 Treatment   
+Conical 4: 175K- 250s   
+Conical 7: 75K- 250s   
+Conical 8: 105K- 250s   
+
+These pH 8.2 setters were combined and set in 4 silos.
+
+No setters in pH 7.1 treatment
+
+### 5/30/17
+
+Harvested Setters   
+
+pH 8.2 Treatment
+Conical 4: 335K- 250s and 167K- 236s   
+Conical 7: 180K- 250s and 78K- 236s   
+Conical 8: 215K- 250s and 139K- 236s   
+
+No setters in pH 7.1 treatment
+
+### 6/1/17
+
+Harvested setters and end of experiment
+
+pH 8.2 Treatment
+Conical 4: 11K- 250s and 21K 236s   
+Conical 7: 6K-250s and 36K 236s   
+Conical 8: 11K- 250s and 36K 236s   
+
+pH 7.1 Treatment
+Conical 6: 71K- 200s and 267K -180s   
+Conical 9: 56K- 236s and 157K 200s and 122K 180s   
+Conical 10: 11K 236s and 79K 200s and 78K 180s
+
+Dumped all remaining larvae as it looked pretty bad. End of experiment.
+
+# Summary Table
+
+Conica
+
+
+
+
+
+
+
+
 
