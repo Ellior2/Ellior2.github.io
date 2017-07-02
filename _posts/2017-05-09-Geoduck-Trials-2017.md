@@ -364,12 +364,12 @@ No setters in pH 7.1 treatment
 
 Harvested setters and end of experiment
 
-pH 8.2 Treatment
+pH 8.2 Treatment   
 Conical 4: 11K- 250s and 21K 236s   
 Conical 7: 6K-250s and 36K 236s   
 Conical 8: 11K- 250s and 36K 236s   
 
-pH 7.1 Treatment
+pH 7.1 Treatment   
 Conical 6: 71K- 200s and 267K -180s   
 Conical 9: 56K- 236s and 157K 200s and 122K 180s   
 Conical 10: 11K 236s and 79K 200s and 78K 180s
