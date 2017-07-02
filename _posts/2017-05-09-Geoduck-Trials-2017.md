@@ -378,7 +378,13 @@ Dumped all remaining larvae as it looked pretty bad. End of experiment.
 
 # Summary Table
 
-Conica
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/Summarygeo17table.JPG)
+
+# [Growth Curve](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/geo17growthcurve.JPG)
+
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/geo17growthcurve.JPG)
+
+
 
 
 
