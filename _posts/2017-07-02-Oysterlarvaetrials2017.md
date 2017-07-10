@@ -52,8 +52,11 @@ I will use 5um, 0.7um, and 0.22um to capture potential protozoans and bacteria.
 7/11/17 Microbiomes, Drop conicals, proteomics
 
 
+### Preliminary results
 
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day6survival.JPG)
 
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day12survival.JPG)
 
 
 
