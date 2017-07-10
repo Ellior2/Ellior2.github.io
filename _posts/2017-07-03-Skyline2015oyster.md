@@ -33,4 +33,11 @@ Then I copied and pasted the results from the Pivot table to a new sheet to make
 
 ![step4](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_9_17post/step4.JPG)
 
+I summed up all the areas for each protein across all samples. To look at the relative abundance of proteins between samples, I created 4 extra columns that calculate the percent contribution each sample has to that protein. For example, for Oyster sample 1, I took the Oyster 1 summed area and divided it by the total summed area across all samples and muliplied by 100. I also relabeled the oyster sample #'s with their identification from the experiment.
+
+Finally I sorted the file by summed area column for all samples largest to smallest to orient the most abundant proteins towards the top of the file.
+
+
+![step5](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_9_17post/step5.JPG)
+
 
