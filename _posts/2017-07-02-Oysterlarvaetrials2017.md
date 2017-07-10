@@ -46,8 +46,7 @@ I will use 5um, 0.7um, and 0.22um to capture potential protozoans and bacteria.
 7/05/17 Measurements and drop conicals, proteomics   
 7/06/17 Microbiome sampling   
 7/07/17 Drop conicals, proteomics   
-7/08/17 Measurements   
-7/09/17 Microbiomes, Drop conicals, proteomics   
+7/09/17 Screening day, proteomics, measurements   
 7/10/17 Measurements   
 7/11/17 Microbiomes, Drop conicals, proteomics
 
