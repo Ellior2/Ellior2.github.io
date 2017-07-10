@@ -40,4 +40,12 @@ Finally I sorted the file by summed area column for all samples largest to small
 
 ![step5](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_9_17post/step5.JPG)
 
+I copied and pasted these calculated percentages for each protein into a new file located [here](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/RelativeabundanceCGI.txt).
+
+I joined it with [Uniprot database with CGI codes and GO terms](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/uniprot-cgi_GO.tab) in Galaxy.
+
+![step6](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_9_17post/step6.JPG)
+
+
+Here is the annotated [Excel file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/AnnotatedproteinsGO.tabular.xlsx) with all of the proteins detected among the four samples with corresponding GO terms.
 
