@@ -49,3 +49,11 @@ I joined it with [Uniprot database with CGI codes and GO terms](https://github.c
 
 Here is the annotated [Excel file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/AnnotatedproteinsGO.tabular.xlsx) with all of the proteins detected among the four samples with corresponding GO terms.
 
+I tried unfolding these GO terms in Galaxy but it appears their unfold function is not working. I posted an [issue #654](https://github.com/sr320/LabDocs/issues/654) on Github and Sam wrote up a bash script for me to use on this file. I followed the directions he wrote up. 
+
+Here is my [unfold script](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/unfold.sh).
+
+This was my input file [AnnotatedproteinsGO.tabular](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/AnnotatedproteinsGO.tabular) and here was my output file [unfolded.tab](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/unfolded.tab)
+
+Hooray!
+
