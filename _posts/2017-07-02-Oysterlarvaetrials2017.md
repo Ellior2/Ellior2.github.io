@@ -39,21 +39,24 @@ I will use 5um, 0.7um, and 0.22um to capture potential protozoans and bacteria.
 6/27/17 Spawn   
 6/28/17 Start feeding conicals   
 6/29/17 D-hinge counts, proteomics   
+6/30/17 Move Conicals 41/42 to 28C   
 7/01/17 Microbiome sampling and drop conicals, proteomics   
 7/02/17 Measurements   
-7/03/17 Screening day, proteomics   
-7/04/17 Microbiome sampling   
-7/05/17 Measurements and drop conicals, proteomics   
-7/06/17 Microbiome sampling   
+7/03/17 Dropped conicals, proteomics   
+7/04/17 Microbiome sampling, measurements   
+7/05/17 Screening day, proteomics   
+7/06/17 Microbiome sampling, measurements
 7/07/17 Drop conicals, proteomics   
 7/09/17 Screening day, proteomics, measurements   
 7/10/17 Measurements   
-7/11/17 Microbiomes, Drop conicals, proteomics
+7/11/17 Drop conicals, proteomics, measurements   
+7/12/17 Microbiome sampling   
+7/13/17 Quantify larvae   
 
 
 ### Preliminary results
-[Day 6 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day6survival.JPG)
-![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day6survival.JPG)
+[Day 8 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day8survival.JPG)
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day8survival.JPG)
 
 [Day 12 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day12survival.JPG)
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day12survival.JPG)
