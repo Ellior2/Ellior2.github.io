@@ -26,19 +26,19 @@ Now that I have this massive table including all of the samples with NSAF values
 
 Here is a screenshot of this [masterfile](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/GO_slim/Allsamples_Goslimjoin.interval)
 
-![step1](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/7_11_17post/step1.JPG)
+![step1](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step1.JPG)
 
 I then copied and pasted the protein names, NSAF values for Sample 1 and the corresponding GO slim term to a new tab. 
 
 I then sorted the new worksheet by NSAF values largest to smallest so that I could remove any of the GO slim categories that had a 0 for the NSAF value.
 
-![step2](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/7_11_17post/step2.JPG)
+![step2](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step2.JPG)
 
 Then I created a Pivot Table by putting the GO slim field into the "Axis" box and the "sum of NSAF" into the values box. For some of the proteins, multiple GO terms were correlated which were categorized into the some of the same GO slim categories. 
 
-![step3](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/7_11_17post/step3.JPG)
+![step3](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step3.JPG)
 
-![step4](https://github.com/Ellior2/Ellior2.github.io/blob/master/images/7_11_17post/step1.JPG)
 
-Then I created a pie-chart visualization
+Then I created a pie-chart visualization but since I have 36 Go slim categories it is still pretty overwhelming to look at. Here is Sample #1.
 
+![step4](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step4.JPG)
