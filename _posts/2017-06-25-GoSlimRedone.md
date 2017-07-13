@@ -34,11 +34,11 @@ I then sorted the new worksheet by NSAF values largest to smallest so that I cou
 
 ![step2](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step2.JPG)
 
-Then I created a Pivot Table by putting the GO slim field into the "Axis" box and the "sum of NSAF" into the values box. For some of the proteins, multiple GO terms were correlated which were categorized into the some of the same GO slim categories. 
+Then I created a Pivot Table by putting the GO slim field into the "Axis" box and the "sum of NSAF" into the values box. For some of the proteins, multiple GO terms were assigned were categorized into the some of the same GO slim categories. I am trying to compare expression level of proteins related to certain GO slim categories among my samples. However, I end up summing redundant NSAF values because the same GO slim category pops up multiple times for one protein. I am not sure if what I am doing here makes a ton of logical sense....
 
 ![step3](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step3.JPG)
 
 
-Then I created a pie-chart visualization but since I have 36 Go slim categories it is still pretty overwhelming to look at. Here is Sample #1.
+Anyways, I created a pie-chart visualization but since I have 36 Go slim categories it is still pretty overwhelming to look at. Here is Sample #1.
 
 ![step4](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step4.JPG)
