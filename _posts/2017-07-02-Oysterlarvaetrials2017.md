@@ -29,10 +29,12 @@ _Histology_
 I will fix samples in 10% formalin for Ralph. At the same time I will sample larvae using PaxGene.
 
 _Proteomics_
-Samples will be flash frozen in liquid nitrogen and stored in -80C.
+Samples will be flash frozen in liquid nitrogen and stored in -80C. Samples will be taken during tank changes when larvae are dropping onto screen. I did not rinse with freshwater.
 
 _Microbiomes_
-I will use 5um, 0.7um, and 0.22um to capture potential protozoans and bacteria.
+I will use 5um, 0.7um, and 0.22um in a series to capture potential protozoans and bacteria. I am using a peristaltic pump running at 160 ml/min and I am filtering 1L of effluent seawater from each of the conicals. 
+
+![filteroysterlarvae](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/filteroysterlarvae.png)
 
 ### Tentative Schedule
 
