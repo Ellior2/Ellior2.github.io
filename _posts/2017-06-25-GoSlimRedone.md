@@ -54,11 +54,13 @@ Here is a pie chart where I ignored the NSAF values for the protein and just cou
 Then I worked on Sample 3 which is from Silo 2-23C at Day 3.
 
 Here is pie chart with summed NSAF values for Sample 3
+
 [Sample 3 summed NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step6.JPG)
 
 ![step6](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step6.JPG)
 
 Here is pie chart with count of NSAF for Sample 3
+
 [Sample 3 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step7.JPG)
 
 ![step7](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step7.JPG)
