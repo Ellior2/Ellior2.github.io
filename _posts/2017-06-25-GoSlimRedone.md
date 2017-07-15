@@ -64,3 +64,51 @@ Here is pie chart with count of NSAF for Sample 3
 [Sample 3 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step7.JPG)
 
 ![step7](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step7.JPG)
+
+Here is pie chart with summed NSAF values for Sample 11 (Silo 2-23C at Day 5)
+
+[Sample 11 summed NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step8.JPG)
+
+![step8](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step8.JPG)
+
+Here is pie chart with count of NSAF for Sample 11
+
+[Sample 11 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step9.JPG)
+
+![step9](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step9.JPG)
+
+Here is pie chart with summed NSAF values for Sample 19 (Silo 2-23C at Day 7)
+
+[Sample 19 summed NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step10.JPG)
+
+![step10](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step10.JPG)
+
+Here is pie chart with count of NSAF for Sample 19
+
+[Sample 19 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step11.JPG)
+
+![step11](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step11.JPG)
+
+Here is pie chart with summed NSAF values for Sample 27 (Silo 2-23C at Day 9)
+
+[Sample 27 summed NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step12.JPG)
+
+![step12](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step12.JPG)
+
+Here is pie chart with count of NSAF for Sample 27
+
+[Sample 27 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step13.JPG)
+
+![step13](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step13.JPG)
+
+Here is pie chart with summed NSAF values for Sample 35 (Silo 2-23C at Day 11)
+
+[Sample 35 summed NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step14.JPG)
+
+![step14](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step14.JPG)
+
+Here is pie chart with count of NSAF for Sample 35
+
+[Sample 35 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step15.JPG)
+
+![step15](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step15.JPG)
