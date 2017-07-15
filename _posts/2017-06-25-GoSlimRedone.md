@@ -47,7 +47,7 @@ Anyways, I created a pie-chart visualization but since I have 36 Go slim categor
 
 Here is a pie chart where I ignored the NSAF values for the protein and just counted the number of GO slim assignments across all proteins for Sample 1. Note: not all the category labels could fit on this chart.
 
-[Sample 1 count of NSAF]](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step5.JPG)
+[Sample 1 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step5.JPG)
 ![step5](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step5.JPG)
 
 
