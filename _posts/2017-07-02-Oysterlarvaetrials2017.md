@@ -49,11 +49,10 @@ I will use 5um, 0.7um, and 0.22um in a series to capture potential protozoans an
 7/05/17 Screening day, proteomics   
 7/06/17 Microbiome sampling, measurements
 7/07/17 Drop conicals, proteomics   
-7/09/17 Screening day, proteomics, measurements   
-7/10/17 Measurements   
+7/09/17 Screening day, proteomics, measurements    
 7/11/17 Drop conicals, proteomics, measurements   
 7/12/17 Microbiome sampling   
-7/13/17 Quantify larvae   
+7/13/17 Quantify larvae, measurements, proteomics   
 
 
 ### Preliminary results
