@@ -41,18 +41,24 @@ Then I created a Pivot Table by putting the GO slim field into the "Axis" box an
 
 Anyways, I created a pie-chart visualization but since I have 36 Go slim categories it is still pretty overwhelming to look at. There are a total of 38 Go slim categories in this [file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/GO_slim/Gotogoslim.txt) Here is Sample #1 (pooled competent eyed larvae) where I have summed the NSAF values for each GO slim assignment on a protein. Note: not all the category labels could fit on this chart.
 
+[Sample 1 summed NSAF]](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step4.JPG)
+
 ![step4](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step4.JPG)
 
 Here is a pie chart where I ignored the NSAF values for the protein and just counted the number of GO slim assignments across all proteins for Sample 1. Note: not all the category labels could fit on this chart.
 
+[Sample 1 count of NSAF]](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step5.JPG)
 ![step5](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step5.JPG)
-
 
 
 Then I worked on Sample 3 which is from Silo 2-23C at Day 3.
 
 Here is pie chart with summed NSAF values for Sample 3
+[Sample 3 summed NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step6.JPG)
+
 ![step6](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step6.JPG)
 
 Here is pie chart with count of NSAF for Sample 3
+[Sample 3 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step7.JPG)
+
 ![step7](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step7.JPG)
