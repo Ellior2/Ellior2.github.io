@@ -63,6 +63,8 @@ I will use 5um, 0.7um, and 0.22um in a series to capture potential protozoans an
 [Day 12 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day12survival.JPG)
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day12survival.JPG)
 
+[Day 16 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day16survival.JPG)
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day16survival.JPG)
 
 
 
