@@ -57,11 +57,13 @@ I will use 5um, 0.7um, and 0.22um in a series to capture potential protozoans an
 
 ### Preliminary results
 
-Seeing some differences in the Duck room at Day 12! From left to right are Duck room-round tank water conical 1, Duck room-round tank water conical 2, Duck room-control conical 6, and Duck room-control conical 7.
-![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/duckroom.JPG)
-
 [Day 8 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day8survival.JPG)
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day8survival.JPG)
+
+Seeing some differences in the Duck room at Day 12! 
+
+From left to right are Duck room-round tank water conical 1, Duck room-round tank water conical 2, Duck room-control conical 6, and Duck room-control conical 7.
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/duckroom.JPG)
 
 [Day 12 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day12survival.JPG)
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day12survival.JPG)
