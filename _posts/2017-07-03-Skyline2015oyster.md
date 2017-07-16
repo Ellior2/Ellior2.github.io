@@ -71,3 +71,9 @@ Here is a graph showing the GO slims for each of the four samples:
 [Goslim 2015](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/2015GOslim.JPG)
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/2015GOslim.JPG)
 
+Since the other molecular function category has a much greater range making it difficult to see the other categories, I removed it in this graph.
+
+[Goslim 2015 remove molecular function](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/2015GOslim_removeothermolecfunction.JPG)
+
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/2015GOslim_removeothermolecfunction.JPG)
+
