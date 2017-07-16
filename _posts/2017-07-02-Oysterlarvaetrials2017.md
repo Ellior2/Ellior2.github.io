@@ -65,8 +65,21 @@ I will use 5um, 0.7um, and 0.22um in a series to capture potential protozoans an
 [Day 16 Growth and Survival](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day16survival.JPG)
 ![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/Day16survival.JPG)
 
+On Day 16, I did not screen larvae to get a weighted average screen size. There were too few larvae to do this accurately. Instead I measured 50 larvae from each conical and to quantify I took 100ul subsamples from a known volume to count 50+ larvae. I counted 6 subsamples to estimate and calculate how many larvae were in each conical. I estimated the weighted average screen size using the Pythagorean Theorem. This way I can compare growth between the three days.
 
+For example:
 
+Average size of larvae = 271.50 um
+
+If you take the sqrt((271*271)/2)= 191.98 um
+
+This means the estimated weighted average screen size for the larvae would be 191.98 um.
+
+Here is a chart where I combined all three days
+
+[Combined Day- survival and growth](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/combineddaysurvival.JPG)
+
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/oysterlarvaecharts/combineddaysurvival.JPG)
 
 
 
