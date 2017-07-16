@@ -71,7 +71,7 @@ For example:
 
 Average size of larvae = 271.50 um
 
-If you take the sqrt((271*271)/2)= 191.98 um
+If you take the sqrt((271.50*271.50)/2)= 191.98 um
 
 This means the estimated weighted average screen size for the larvae would be 191.98 um.
 
