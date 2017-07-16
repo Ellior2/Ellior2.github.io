@@ -61,7 +61,7 @@ In this step outlined above I had used a file where I had calculated the percent
 
 I followed the same steps above to unfold the GO column and then I merged with the [GOtoGOslim file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/GO_slim/Gotogoslim.txt) in Galaxy similar to what I did when analyzing the 2016 data found here: https://ellior2.github.io/GoSlimRedone/
 
-Here is the [excel file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/AnnotatedproteinsGOarea.tabular.xlsx) I am working with now.
+Here is the [excel file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/annotatedGOslimarea.tabular.xlsx) I am working with now.
 
 Then I created a Pivot table to sum the areas:
 ![pivottable](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/screenshot2015goslim.JPG)
