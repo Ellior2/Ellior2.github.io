@@ -57,3 +57,17 @@ This was my input file [AnnotatedproteinsGO.tabular](https://github.com/RobertsL
 
 Hooray!
 
+In this step outlined above I had used a file where I had calculated the percent contribution of each sample to that protein. In these steps below, I repeat what I did above except I am using a file with the raw values for the "area" that I had gotten out of Skyline here:  https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/skylineoutput_wNA.xlsx
+
+I followed the same steps above to unfold the GO column and then I merged with the [GOtoGOslim file](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DDA_2016/GO_slim/Gotogoslim.txt) in Galaxy similar to what I did when analyzing the 2016 data found here: https://ellior2.github.io/GoSlimRedone/
+
+Here is the file I am working with now: https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/AnnotatedproteinsGOarea.tabular.xlsx
+
+Then I created a Pivot table to sum the areas:
+![pivottable](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/screenshot2015goslim.JPG)
+
+
+Here is a graph showing the GO slims for each of the four samples:
+[Goslim 2015](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/2015GOslim.JPG)
+![im](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/2015GOslim.JPG)
+
