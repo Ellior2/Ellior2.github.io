@@ -112,3 +112,9 @@ Here is pie chart with count of NSAF for Sample 35
 [Sample 35 count of NSAF](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step15.JPG)
 
 ![step15](https://raw.githubusercontent.com/Ellior2/Ellior2.github.io/master/images/7_11_17post/step15.JPG)
+
+And finally to take a step back and look at all days in one graph:
+
+[Day 0- Day 11 for Silo 2-23C](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/GO_slim/Silo2-23Cgoslim.JPG)
+
+![im](https://raw.githubusercontent.com/RobertsLab/project-pacific.oyster-larvae/master/DDA_2016/GO_slim/Silo2-23Cgoslim.JPG)
